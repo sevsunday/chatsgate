@@ -1,0 +1,130 @@
+{
+  "userId": "1061876999095844974",
+  "displayName": "BZ",
+  "aliases": [],
+  "stats": {
+    "messageCount": 16,
+    "wordCount": 46,
+    "avgLength": 29.19,
+    "activityScore": 37.0,
+    "totalReactions": 0
+  },
+  "words": {
+    "server": 3,
+    "joined": 2,
+    "high": 2,
+    "doesn": 2,
+    "lag": 2,
+    "old": 2,
+    "computer": 2,
+    "re": 1,
+    "wow": 1,
+    "remember": 1,
+    "ping": 1,
+    "got": 1,
+    "gaming": 1,
+    "pc": 1,
+    "true": 1,
+    "guess": 1,
+    "handle": 1,
+    "bz": 1,
+    "max": 1,
+    "settings": 1,
+    "though": 1,
+    "good": 1,
+    "connection": 1,
+    "specs": 1,
+    "guessing": 1,
+    "makes": 1,
+    "sense": 1,
+    "oh": 1,
+    "called": 1,
+    "call": 1,
+    "word": 1,
+    "say": 1,
+    "let": 1,
+    "didn": 1,
+    "remove": 1,
+    "fine": 1,
+    "ll": 1,
+    "join": 1
+  },
+  "phrases": {
+    "the server": 3
+  },
+  "timeline": {
+    "daily": [
+      {
+        "date": "2026-08-28",
+        "count": 1
+      },
+      {
+        "date": "2026-09-04",
+        "count": 14
+      },
+      {
+        "date": "2026-09-13",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week": "2026-W34",
+        "count": 1
+      },
+      {
+        "week": "2026-W35",
+        "count": 14
+      },
+      {
+        "week": "2026-W37",
+        "count": 1
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2026-08",
+        "count": 1
+      },
+      {
+        "month": "2026-09",
+        "count": 15
+      }
+    ]
+  },
+  "relationships": {
+    "mentionsGiven": [
+      {
+        "user": "charge5_c",
+        "count": 1
+      },
+      {
+        "user": "F9bomber",
+        "count": 1
+      },
+      {
+        "user": "Lithium",
+        "count": 1
+      }
+    ],
+    "mentionsReceived": [
+      {
+        "user": "Erotic Juice Princess",
+        "count": 2
+      },
+      {
+        "user": "charge5_c",
+        "count": 2
+      },
+      {
+        "user": "F9bomber",
+        "count": 1
+      },
+      {
+        "user": "Lithium",
+        "count": 1
+      }
+    ],
+    "reactionsReceived": []
+  }
+}

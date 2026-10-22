@@ -1,0 +1,98 @@
+{
+  "userId": "397875088676093963",
+  "displayName": "Devastator",
+  "aliases": [],
+  "stats": {
+    "messageCount": 5,
+    "wordCount": 20,
+    "avgLength": 37.8,
+    "activityScore": 15.5,
+    "totalReactions": 0
+  },
+  "words": {
+    "joined": 1,
+    "server": 1,
+    "hi": 1,
+    "thank": 1,
+    "great": 1,
+    "actually": 1,
+    "ai": 1,
+    "model": 1,
+    "play": 1,
+    "bz2": 1,
+    "learn": 1,
+    "give": 1,
+    "us": 1,
+    "data": 1,
+    "f9bomber": 1,
+    "sounds": 1,
+    "next": 1,
+    "project": 1,
+    "list": 1,
+    "ohh": 1
+  },
+  "phrases": {},
+  "timeline": {
+    "daily": [
+      {
+        "date": "2026-02-16",
+        "count": 2
+      },
+      {
+        "date": "2026-04-25",
+        "count": 3
+      }
+    ],
+    "weekly": [
+      {
+        "week": "2026-W07",
+        "count": 2
+      },
+      {
+        "week": "2026-W16",
+        "count": 3
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2026-02",
+        "count": 2
+      },
+      {
+        "month": "2026-04",
+        "count": 3
+      }
+    ]
+  },
+  "relationships": {
+    "mentionsGiven": [
+      {
+        "user": "𝕯𝖆𝖗𝖐𝖛𝖆𝖑𝖊",
+        "count": 1
+      },
+      {
+        "user": "F9bomber",
+        "count": 1
+      }
+    ],
+    "mentionsReceived": [
+      {
+        "user": "blue",
+        "count": 2
+      },
+      {
+        "user": "General Cyber",
+        "count": 1
+      },
+      {
+        "user": "Erotic Juice Princess",
+        "count": 1
+      },
+      {
+        "user": "Deleted User",
+        "count": 1
+      }
+    ],
+    "reactionsReceived": []
+  }
+}

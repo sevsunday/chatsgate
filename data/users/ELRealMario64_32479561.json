@@ -3,14 +3,18 @@
   "displayName": "ELRealMario64",
   "aliases": [],
   "stats": {
-    "messageCount": 9,
-    "wordCount": 34,
-    "avgLength": 33.11,
-    "activityScore": 26.5,
+    "messageCount": 12,
+    "wordCount": 48,
+    "avgLength": 35.08,
+    "activityScore": 37.2,
     "totalReactions": 0
   },
   "words": {
-    "roblox": 2,
+    "one": 4,
+    "message": 4,
+    "removed": 4,
+    "suspended": 4,
+    "account": 4,
     "group": 2,
     "everyone": 1,
     "plays": 1,
@@ -18,6 +22,7 @@
     "want": 1,
     "robux": 1,
     "join": 1,
+    "roblox": 1,
     "ll": 1,
     "fund": 1,
     "look": 1,
@@ -35,20 +40,31 @@
     "first": 1,
     "place": 1,
     "lmao": 1,
-    "listen": 1,
-    "tyrone": 1,
-    "shani": 1,
-    "qua": 1,
-    "sent": 1,
     "joined": 1,
     "server": 1
   },
-  "phrases": {},
+  "phrases": {
+    "one message": 4,
+    "message removed": 4,
+    "removed from": 4,
+    "from suspended": 4,
+    "suspended account": 4,
+    "one message removed": 4,
+    "message removed from": 4,
+    "removed from suspended": 4,
+    "from suspended account": 4,
+    "one message removed from": 4,
+    "message removed from suspended": 4,
+    "removed from suspended account": 4,
+    "one message removed from suspended": 4,
+    "message removed from suspended account": 4,
+    "one message removed from suspended account": 4
+  },
   "timeline": {
     "daily": [
       {
         "date": "2025-11-03",
-        "count": 1
+        "count": 4
       },
       {
         "date": "2025-11-04",
@@ -58,34 +74,34 @@
     "weekly": [
       {
         "week": "2025-W44",
-        "count": 9
+        "count": 12
       }
     ],
     "monthly": [
       {
         "month": "2025-11",
-        "count": 9
+        "count": 12
       }
     ]
   },
   "relationships": {
     "mentionsGiven": [
       {
-        "user": "Kowloon Walled City",
+        "user": "blue",
         "count": 1
       },
       {
-        "user": "Streets clear, no danger",
+        "user": "King Just!ce",
+        "count": 1
+      },
+      {
+        "user": "getsthedubs",
         "count": 1
       }
     ],
     "mentionsReceived": [
       {
-        "user": "Kowloon Walled City",
-        "count": 1
-      },
-      {
-        "user": "Reacher",
+        "user": "blue",
         "count": 1
       }
     ],

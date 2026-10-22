@@ -3,11 +3,11 @@
   "displayName": "TBD",
   "aliases": [],
   "stats": {
-    "messageCount": 91,
-    "wordCount": 351,
-    "avgLength": 47.31,
-    "activityScore": 273.0,
-    "totalReactions": 0
+    "messageCount": 94,
+    "wordCount": 358,
+    "avgLength": 46.53,
+    "activityScore": 278.8,
+    "totalReactions": 2
   },
   "words": {
     "back": 6,
@@ -22,6 +22,8 @@
     "jabbapop": 3,
     "game": 3,
     "use": 3,
+    "ll": 3,
+    "day": 3,
     "holy": 2,
     "crap": 2,
     "said": 2,
@@ -35,6 +37,7 @@
     "gaming": 2,
     "youtube": 2,
     "next": 2,
+    "time": 2,
     "yes": 2,
     "using": 2,
     "obs": 2,
@@ -45,14 +48,12 @@
     "format": 2,
     "etc": 2,
     "case": 2,
-    "ll": 2,
     "racing": 2,
     "4th": 2,
     "monitor": 2,
     "enough": 2,
     "gotta": 2,
     "least": 2,
-    "day": 2,
     "teamspeak": 2,
     "times": 2,
     "actually": 2,
@@ -109,7 +110,6 @@
     "prime": 1,
     "turbo": 1,
     "try": 1,
-    "time": 1,
     "mate": 1,
     "mine": 1,
     "almost": 1,
@@ -140,6 +140,10 @@
     "modern": 1,
     "think": 1,
     "give": 1,
+    "joined": 1,
+    "server": 1,
+    "long": 1,
+    "rounds": 1,
     "ship": 1,
     "reference": 1,
     "anyone": 1,
@@ -376,6 +380,14 @@
       {
         "date": "2024-06-19",
         "count": 1
+      },
+      {
+        "date": "2026-01-08",
+        "count": 2
+      },
+      {
+        "date": "2026-10-01",
+        "count": 1
       }
     ],
     "weekly": [
@@ -434,6 +446,14 @@
       {
         "week": "2024-W24",
         "count": 1
+      },
+      {
+        "week": "2026-W01",
+        "count": 2
+      },
+      {
+        "week": "2026-W39",
+        "count": 1
       }
     ],
     "monthly": [
@@ -464,13 +484,21 @@
       {
         "month": "2024-06",
         "count": 1
+      },
+      {
+        "month": "2026-01",
+        "count": 2
+      },
+      {
+        "month": "2026-10",
+        "count": 1
       }
     ]
   },
   "relationships": {
     "mentionsGiven": [
       {
-        "user": "Kowloon Walled City",
+        "user": "blue",
         "count": 3
       },
       {
@@ -478,11 +506,11 @@
         "count": 3
       },
       {
-        "user": "susteem is African",
+        "user": "Celiac Sicklyo",
         "count": 1
       },
       {
-        "user": "Bad scion player",
+        "user": "Krees",
         "count": 1
       },
       {
@@ -494,26 +522,34 @@
         "count": 1
       },
       {
-        "user": "Streets clear, no danger",
+        "user": "King Just!ce",
         "count": 1
       },
       {
-        "user": "Slyforion",
+        "user": "Snow White Lion",
         "count": 1
       }
     ],
     "mentionsReceived": [
       {
-        "user": "susteem is African",
+        "user": "Celiac Sicklyo",
         "count": 7
       },
       {
-        "user": "Kowloon Walled City",
+        "user": "blue",
         "count": 5
       },
       {
         "user": "Deleted User",
         "count": 4
+      },
+      {
+        "user": "Totes Mcgee",
+        "count": 1
+      },
+      {
+        "user": "Sir Brambley",
+        "count": 1
       },
       {
         "user": "LuMi",
@@ -524,6 +560,11 @@
         "count": 1
       }
     ],
-    "reactionsReceived": []
+    "reactionsReceived": [
+      {
+        "emoji": "❤️",
+        "count": 2
+      }
+    ]
   }
 }

@@ -1,0 +1,241 @@
+{
+  "userId": "1466823565537050858",
+  "displayName": "NinjaSocks",
+  "aliases": [],
+  "stats": {
+    "messageCount": 45,
+    "wordCount": 210,
+    "avgLength": 50.73,
+    "activityScore": 160.5,
+    "totalReactions": 7
+  },
+  "words": {
+    "pay": 9,
+    "rent": 7,
+    "sly": 5,
+    "play": 5,
+    "money": 5,
+    "channel": 4,
+    "game": 4,
+    "coffee": 4,
+    "hm": 3,
+    "son": 3,
+    "player": 3,
+    "players": 3,
+    "server": 2,
+    "website": 2,
+    "video": 2,
+    "okay": 2,
+    "got": 2,
+    "nice": 2,
+    "workshop": 2,
+    "around": 2,
+    "anymore": 2,
+    "10": 2,
+    "dollars": 2,
+    "month": 2,
+    "best": 2,
+    "time": 2,
+    "keep": 2,
+    "state": 2,
+    "people": 2,
+    "enough": 2,
+    "playing": 2,
+    "buy": 2,
+    "someone": 2,
+    "earn": 2,
+    "capitalizing": 2,
+    "joined": 1,
+    "bz2maps": 1,
+    "clicked": 1,
+    "youtube": 1,
+    "occasions": 1,
+    "yes": 1,
+    "picking": 1,
+    "found": 1,
+    "link": 1,
+    "discord": 1,
+    "icon": 1,
+    "shows": 1,
+    "interesting": 1,
+    "community": 1,
+    "pleasure": 1,
+    "watch": 1,
+    "makes": 1,
+    "sense": 1,
+    "matching": 1,
+    "pictures": 1,
+    "needed": 1,
+    "look": 1,
+    "crew": 1,
+    "support": 1,
+    "seen": 1,
+    "ll": 1,
+    "subscribe": 1,
+    "kid": 1,
+    "goes": 1,
+    "bed": 1,
+    "live": 1,
+    "mass": 1,
+    "slyflorian": 1,
+    "much": 1,
+    "herp": 1,
+    "lend": 1,
+    "choose": 1,
+    "mentorship": 1,
+    "first": 1,
+    "easy": 1,
+    "120": 1,
+    "year": 1,
+    "owner": 1,
+    "reimagining": 1,
+    "hard": 1,
+    "shooting": 1,
+    "coop": 1,
+    "good": 1,
+    "donnot": 1,
+    "cool": 1,
+    "monetizers": 1,
+    "battlezone": 1,
+    "wife": 1,
+    "afford": 1,
+    "trying": 1,
+    "lights": 1,
+    "moving": 1,
+    "forward": 1,
+    "wow": 1,
+    "another": 1,
+    "bzii": 1,
+    "teach": 1,
+    "paychecks": 1,
+    "ets": 1,
+    "snatched": 1,
+    "already": 1,
+    "greedy": 1,
+    "hands": 1,
+    "keeping": 1,
+    "payers": 1,
+    "learning": 1,
+    "worth": 1,
+    "weird": 1,
+    "point": 1,
+    "capatilize": 1,
+    "luminis": 1,
+    "elmartin": 1,
+    "fair": 1,
+    "us": 1,
+    "capitalizes": 1,
+    "bills": 1,
+    "everyone": 1,
+    "worthy": 1,
+    "rip": 1,
+    "better": 1,
+    "old": 1,
+    "platers": 1,
+    "anyways": 1,
+    "constructive": 1,
+    "real": 1,
+    "talk": 1,
+    "donations": 1,
+    "ain": 1,
+    "free": 1,
+    "gotta": 1,
+    "eat": 1,
+    "survive": 1,
+    "aint": 1,
+    "respected": 1,
+    "spread": 1,
+    "respect": 1,
+    "grind": 1,
+    "man": 1,
+    "cause": 1,
+    "dreadful": 1,
+    "bu": 1,
+    "prop": 1,
+    "status": 1,
+    "instead": 1
+  },
+  "phrases": {
+    "my son": 3,
+    "your channel": 3,
+    "to pay": 3,
+    "the game": 3,
+    "me coffee": 3
+  },
+  "timeline": {
+    "daily": [
+      {
+        "date": "2026-01-30",
+        "count": 45
+      }
+    ],
+    "weekly": [
+      {
+        "week": "2026-W04",
+        "count": 45
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2026-01",
+        "count": 45
+      }
+    ]
+  },
+  "relationships": {
+    "mentionsGiven": [
+      {
+        "user": "JJ",
+        "count": 2
+      },
+      {
+        "user": "F9bomber",
+        "count": 2
+      },
+      {
+        "user": "Deleted User",
+        "count": 1
+      },
+      {
+        "user": "syst౿m౿",
+        "count": 1
+      }
+    ],
+    "mentionsReceived": [
+      {
+        "user": "F9bomber",
+        "count": 5
+      },
+      {
+        "user": "JJ",
+        "count": 5
+      },
+      {
+        "user": "syst౿m౿",
+        "count": 3
+      },
+      {
+        "user": "blue",
+        "count": 1
+      },
+      {
+        "user": "Erotic Juice Princess",
+        "count": 1
+      }
+    ],
+    "reactionsReceived": [
+      {
+        "emoji": "❤️",
+        "count": 3
+      },
+      {
+        "emoji": "😂",
+        "count": 3
+      },
+      {
+        "emoji": "☝️",
+        "count": 1
+      }
+    ]
+  }
+}

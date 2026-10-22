@@ -3,17 +3,59 @@
   "displayName": "dd",
   "aliases": [],
   "stats": {
-    "messageCount": 3,
-    "wordCount": 5,
-    "avgLength": 10.33,
-    "activityScore": 4.4,
-    "totalReactions": 0
+    "messageCount": 44,
+    "wordCount": 67,
+    "avgLength": 15.09,
+    "activityScore": 60.1,
+    "totalReactions": 1
   },
   "words": {
+    "scared": 6,
+    "game": 5,
+    "play": 5,
+    "wanna": 3,
+    "nomad": 2,
+    "left": 2,
+    "1v1": 2,
+    "ppl": 2,
+    "nerd": 2,
     "bz2maps": 1,
     "com": 1,
     "joined": 1,
     "server": 1,
+    "turned": 1,
+    "lets": 1,
+    "charge5": 1,
+    "nvm": 1,
+    "sounds": 1,
+    "yuu": 1,
+    "problem": 1,
+    "excuse": 1,
+    "used": 1,
+    "vivify": 1,
+    "chances": 1,
+    "scion": 1,
+    "10": 1,
+    "active": 1,
+    "discord": 1,
+    "playing": 1,
+    "amazing": 1,
+    "poor": 1,
+    "max": 1,
+    "vs": 1,
+    "dd": 1,
+    "waiting": 1,
+    "hand": 1,
+    "watch": 1,
+    "deal": 1,
+    "come": 1,
+    "cmon": 1,
+    "90": 1,
+    "mins": 1,
+    "join": 1,
+    "blue": 1,
+    "willing": 1,
+    "hmm": 1,
     "da": 1
   },
   "phrases": {},
@@ -30,6 +72,26 @@
       {
         "date": "2025-10-30",
         "count": 1
+      },
+      {
+        "date": "2026-05-14",
+        "count": 6
+      },
+      {
+        "date": "2026-05-18",
+        "count": 14
+      },
+      {
+        "date": "2026-05-21",
+        "count": 13
+      },
+      {
+        "date": "2026-05-22",
+        "count": 1
+      },
+      {
+        "date": "2026-06-03",
+        "count": 7
       }
     ],
     "weekly": [
@@ -44,6 +106,18 @@
       {
         "week": "2025-W43",
         "count": 1
+      },
+      {
+        "week": "2026-W19",
+        "count": 6
+      },
+      {
+        "week": "2026-W20",
+        "count": 28
+      },
+      {
+        "week": "2026-W22",
+        "count": 7
       }
     ],
     "monthly": [
@@ -54,29 +128,71 @@
       {
         "month": "2025-10",
         "count": 2
+      },
+      {
+        "month": "2026-05",
+        "count": 34
+      },
+      {
+        "month": "2026-06",
+        "count": 7
       }
     ]
   },
   "relationships": {
-    "mentionsGiven": [],
+    "mentionsGiven": [
+      {
+        "user": "Deleted User",
+        "count": 2
+      },
+      {
+        "user": "charge5_c",
+        "count": 1
+      },
+      {
+        "user": "Vivify",
+        "count": 1
+      },
+      {
+        "user": "blue",
+        "count": 1
+      }
+    ],
     "mentionsReceived": [
       {
-        "user": "Kowloon Walled City",
-        "count": 4
+        "user": "blue",
+        "count": 5
       },
       {
         "user": "F9bomber",
         "count": 1
       },
       {
-        "user": "Bad scion player",
+        "user": "𝕯𝖆𝖗𝖐𝖛𝖆𝖑𝖊",
         "count": 1
       },
       {
-        "user": "susteem is African",
+        "user": "Snake",
+        "count": 1
+      },
+      {
+        "user": "charge5_c",
+        "count": 1
+      },
+      {
+        "user": "Krees",
+        "count": 1
+      },
+      {
+        "user": "Celiac Sicklyo",
         "count": 1
       }
     ],
-    "reactionsReceived": []
+    "reactionsReceived": [
+      {
+        "emoji": "😂",
+        "count": 1
+      }
+    ]
   }
 }

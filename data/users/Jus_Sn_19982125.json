@@ -40,17 +40,17 @@
   "relationships": {
     "mentionsGiven": [
       {
-        "user": "Kowloon Walled City",
+        "user": "blue",
         "count": 1
       }
     ],
     "mentionsReceived": [
       {
-        "user": "Kowloon Walled City",
+        "user": "blue",
         "count": 23
       },
       {
-        "user": "Bad scion player",
+        "user": "Krees",
         "count": 1
       }
     ],

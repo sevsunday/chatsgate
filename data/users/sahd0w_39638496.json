@@ -3,43 +3,49 @@
   "displayName": "sahd0w",
   "aliases": [],
   "stats": {
-    "messageCount": 40,
-    "wordCount": 221,
-    "avgLength": 60.98,
-    "activityScore": 166.7,
-    "totalReactions": 6
+    "messageCount": 57,
+    "wordCount": 265,
+    "avgLength": 51.58,
+    "activityScore": 202.6,
+    "totalReactions": 8
   },
   "words": {
     "got": 5,
     "re": 5,
     "ban": 5,
     "accounts": 5,
+    "cuz": 4,
+    "going": 4,
     "account": 4,
-    "cuz": 3,
     "days": 3,
-    "going": 3,
+    "hope": 3,
+    "much": 3,
+    "maybe": 3,
+    "oh": 3,
     "go": 3,
     "fun": 2,
     "play": 2,
     "gorgeous": 2,
     "tomorrow": 2,
-    "hope": 2,
     "tho": 2,
-    "much": 2,
-    "maybe": 2,
+    "good": 2,
     "day": 2,
     "reddit": 2,
     "two": 2,
     "one": 2,
     "literally": 2,
+    "someone": 2,
     "logged": 2,
     "connected": 2,
-    "oh": 2,
     "mean": 2,
     "use": 2,
     "surely": 2,
     "never": 2,
     "haha": 2,
+    "anyone": 2,
+    "everything": 2,
+    "guys": 2,
+    "playing": 2,
     "boys": 1,
     "utah": 1,
     "rn": 1,
@@ -85,7 +91,6 @@
     "dust": 1,
     "nice": 1,
     "everyone": 1,
-    "good": 1,
     "weekend": 1,
     "life": 1,
     "eeesh": 1,
@@ -105,7 +110,6 @@
     "made": 1,
     "mangos": 1,
     "pissed": 1,
-    "someone": 1,
     "responded": 1,
     "respond": 1,
     "notificiation": 1,
@@ -171,12 +175,40 @@
     "ronery": 1,
     "joined": 1,
     "server": 1,
+    "streaming": 1,
     "sup": 1,
     "motto": 1,
     "bz": 1,
+    "sound": 1,
+    "video": 1,
+    "tell": 1,
+    "serious": 1,
+    "fr": 1,
+    "beeping": 1,
+    "stress": 1,
+    "try": 1,
+    "gooder": 1,
+    "teehee": 1,
+    "lmao": 1,
+    "astralproject": 1,
+    "game": 1,
+    "godmode": 1,
     "hey": 1,
-    "guys": 1,
-    "playing": 1,
+    "watch": 1,
+    "plays": 1,
+    "stream": 1,
+    "today": 1,
+    "put": 1,
+    "new": 1,
+    "ram": 1,
+    "runs": 1,
+    "smoothly": 1,
+    "host": 1,
+    "kicked": 1,
+    "ll": 1,
+    "jump": 1,
+    "open": 1,
+    "vc": 1,
     "suggesting": 1,
     "immaculate": 1,
     "ruthless": 1,
@@ -186,7 +218,7 @@
   },
   "phrases": {
     "we re": 4,
-    "going to": 3
+    "going to": 4
   },
   "timeline": {
     "daily": [
@@ -229,6 +261,34 @@
       {
         "date": "2025-11-01",
         "count": 1
+      },
+      {
+        "date": "2025-12-10",
+        "count": 1
+      },
+      {
+        "date": "2025-12-28",
+        "count": 1
+      },
+      {
+        "date": "2025-12-30",
+        "count": 1
+      },
+      {
+        "date": "2026-01-10",
+        "count": 3
+      },
+      {
+        "date": "2026-01-30",
+        "count": 2
+      },
+      {
+        "date": "2026-04-29",
+        "count": 8
+      },
+      {
+        "date": "2026-07-11",
+        "count": 1
       }
     ],
     "weekly": [
@@ -259,6 +319,30 @@
       {
         "week": "2025-W43",
         "count": 1
+      },
+      {
+        "week": "2025-W49",
+        "count": 1
+      },
+      {
+        "week": "2025-W52",
+        "count": 2
+      },
+      {
+        "week": "2026-W01",
+        "count": 3
+      },
+      {
+        "week": "2026-W04",
+        "count": 2
+      },
+      {
+        "week": "2026-W17",
+        "count": 8
+      },
+      {
+        "week": "2026-W27",
+        "count": 1
       }
     ],
     "monthly": [
@@ -276,6 +360,22 @@
       },
       {
         "month": "2025-11",
+        "count": 1
+      },
+      {
+        "month": "2025-12",
+        "count": 3
+      },
+      {
+        "month": "2026-01",
+        "count": 5
+      },
+      {
+        "month": "2026-04",
+        "count": 8
+      },
+      {
+        "month": "2026-07",
         "count": 1
       }
     ]
@@ -295,18 +395,26 @@
         "count": 1
       },
       {
-        "user": "Kowloon Walled City",
+        "user": "blue",
+        "count": 1
+      },
+      {
+        "user": "Doma",
         "count": 1
       }
     ],
     "mentionsReceived": [
       {
-        "user": "Kowloon Walled City",
-        "count": 4
+        "user": "F9bomber",
+        "count": 7
       },
       {
-        "user": "F9bomber",
-        "count": 4
+        "user": "blue",
+        "count": 5
+      },
+      {
+        "user": "Doma",
+        "count": 3
       },
       {
         "user": "Deleted User",
@@ -317,11 +425,7 @@
         "count": 2
       },
       {
-        "user": "Doma",
-        "count": 2
-      },
-      {
-        "user": "ᕭΛ𐍂ЖѴΔᒹΞ",
+        "user": "𝕯𝖆𝖗𝖐𝖛𝖆𝖑𝖊",
         "count": 1
       },
       {
@@ -340,6 +444,14 @@
       },
       {
         "emoji": "🔥",
+        "count": 1
+      },
+      {
+        "emoji": "🧈",
+        "count": 1
+      },
+      {
+        "emoji": "z__very_well",
         "count": 1
       }
     ]

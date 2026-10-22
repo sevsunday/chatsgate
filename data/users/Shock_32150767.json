@@ -3,15 +3,35 @@
   "displayName": "Shock",
   "aliases": [],
   "stats": {
-    "messageCount": 13,
-    "wordCount": 15,
-    "avgLength": 37.23,
-    "activityScore": 14.4,
-    "totalReactions": 2
+    "messageCount": 23,
+    "wordCount": 47,
+    "avgLength": 35.74,
+    "activityScore": 39.8,
+    "totalReactions": 6
   },
   "words": {
+    "fan": 2,
+    "tyty": 2,
     "joined": 1,
     "server": 1,
+    "yea": 1,
+    "ima": 1,
+    "godzilla": 1,
+    "typa": 1,
+    "lmao": 1,
+    "ikr": 1,
+    "anybody": 1,
+    "hadean": 1,
+    "pilot": 1,
+    "rifle": 1,
+    "3d": 1,
+    "model": 1,
+    "file": 1,
+    "properly": 1,
+    "view": 1,
+    "thx": 1,
+    "lamper": 1,
+    "nerd": 1,
     "low": 1,
     "iq": 1,
     "says": 1,
@@ -24,7 +44,17 @@
     "calmate": 1,
     "self": 1,
     "aware": 1,
-    "whiner": 1
+    "whiner": 1,
+    "charge5": 1,
+    "1v1": 1,
+    "mean": 1,
+    "challenged": 1,
+    "backed": 1,
+    "call": 1,
+    "want": 1,
+    "time": 1,
+    "rainy": 1,
+    "day": 1
   },
   "phrases": {},
   "timeline": {
@@ -52,6 +82,30 @@
       {
         "date": "2025-09-15",
         "count": 2
+      },
+      {
+        "date": "2026-01-04",
+        "count": 1
+      },
+      {
+        "date": "2026-01-07",
+        "count": 2
+      },
+      {
+        "date": "2026-08-25",
+        "count": 2
+      },
+      {
+        "date": "2026-08-30",
+        "count": 1
+      },
+      {
+        "date": "2026-09-06",
+        "count": 1
+      },
+      {
+        "date": "2026-09-25",
+        "count": 3
       }
     ],
     "weekly": [
@@ -74,6 +128,26 @@
       {
         "week": "2025-W37",
         "count": 2
+      },
+      {
+        "week": "2026-W01",
+        "count": 3
+      },
+      {
+        "week": "2026-W34",
+        "count": 2
+      },
+      {
+        "week": "2026-W35",
+        "count": 1
+      },
+      {
+        "week": "2026-W36",
+        "count": 1
+      },
+      {
+        "week": "2026-W38",
+        "count": 3
       }
     ],
     "monthly": [
@@ -88,13 +162,41 @@
       {
         "month": "2025-09",
         "count": 11
+      },
+      {
+        "month": "2026-01",
+        "count": 3
+      },
+      {
+        "month": "2026-08",
+        "count": 3
+      },
+      {
+        "month": "2026-09",
+        "count": 4
       }
     ]
   },
   "relationships": {
     "mentionsGiven": [
       {
-        "user": "susteem is African",
+        "user": "JJ",
+        "count": 1
+      },
+      {
+        "user": "Lamper",
+        "count": 1
+      },
+      {
+        "user": "Celiac Sicklyo",
+        "count": 1
+      },
+      {
+        "user": "Aggressor",
+        "count": 1
+      },
+      {
+        "user": "charge5_c",
         "count": 1
       },
       {
@@ -105,10 +207,14 @@
     "mentionsReceived": [
       {
         "user": "F9bomber",
+        "count": 12
+      },
+      {
+        "user": "charge5_c",
         "count": 3
       },
       {
-        "user": "Kowloon Walled City",
+        "user": "blue",
         "count": 2
       },
       {
@@ -116,30 +222,42 @@
         "count": 2
       },
       {
+        "user": "mort",
+        "count": 1
+      },
+      {
         "user": "getsthedubs",
         "count": 1
       },
       {
-        "user": "ᕭΛ𐍂ЖѴΔᒹΞ",
+        "user": "𝕯𝖆𝖗𝖐𝖛𝖆𝖑𝖊",
+        "count": 1
+      },
+      {
+        "user": "Erotic Juice Princess",
+        "count": 1
+      },
+      {
+        "user": "Aggressor",
         "count": 1
       },
       {
         "user": "Deleted User",
         "count": 1
-      },
-      {
-        "user": "Slyforion",
-        "count": 1
-      },
-      {
-        "user": "Bad scion player",
-        "count": 1
       }
     ],
     "reactionsReceived": [
       {
+        "emoji": "😂",
+        "count": 3
+      },
+      {
         "emoji": "🫃",
         "count": 2
+      },
+      {
+        "emoji": "🦖",
+        "count": 1
       }
     ]
   }

@@ -3,14 +3,14 @@
   "displayName": "Nozza",
   "aliases": [],
   "stats": {
-    "messageCount": 55,
-    "wordCount": 132,
-    "avgLength": 34.49,
-    "activityScore": 108.9,
+    "messageCount": 56,
+    "wordCount": 136,
+    "avgLength": 34.54,
+    "activityScore": 112.0,
     "totalReactions": 3
   },
   "words": {
-    "game": 10,
+    "game": 11,
     "gamer": 4,
     "soon": 4,
     "server": 2,
@@ -18,6 +18,7 @@
     "open": 2,
     "today": 2,
     "got": 2,
+    "space": 2,
     "20": 2,
     "home": 2,
     "gamers": 2,
@@ -68,7 +69,8 @@
     "pleaseee": 1,
     "didn": 1,
     "consider": 1,
-    "space": 1,
+    "join": 1,
+    "ext": 1,
     "fine": 1,
     "morning": 1,
     "ok": 1,
@@ -228,6 +230,10 @@
       {
         "date": "2025-08-02",
         "count": 1
+      },
+      {
+        "date": "2026-01-17",
+        "count": 1
       }
     ],
     "weekly": [
@@ -282,6 +288,10 @@
       {
         "week": "2025-W30",
         "count": 8
+      },
+      {
+        "week": "2026-W02",
+        "count": 1
       }
     ],
     "monthly": [
@@ -316,6 +326,10 @@
       {
         "month": "2025-08",
         "count": 2
+      },
+      {
+        "month": "2026-01",
+        "count": 1
       }
     ]
   },
@@ -342,7 +356,7 @@
         "count": 1
       },
       {
-        "user": "Bad scion player",
+        "user": "Krees",
         "count": 1
       },
       {
@@ -356,27 +370,27 @@
     ],
     "mentionsReceived": [
       {
-        "user": "susteem is African",
-        "count": 5
+        "user": "F9bomber",
+        "count": 7
+      },
+      {
+        "user": "Celiac Sicklyo",
+        "count": 7
       },
       {
         "user": "Deleted User",
         "count": 5
       },
       {
-        "user": "Kowloon Walled City",
-        "count": 3
+        "user": "blue",
+        "count": 4
       },
       {
         "user": "Lithium",
         "count": 3
       },
       {
-        "user": "JJ173",
-        "count": 3
-      },
-      {
-        "user": "F9bomber",
+        "user": "JJ",
         "count": 3
       },
       {
@@ -384,15 +398,15 @@
         "count": 2
       },
       {
-        "user": "Cyber",
+        "user": "General Cyber",
         "count": 2
       },
       {
-        "user": "Bad scion player",
+        "user": "Krees",
         "count": 1
       },
       {
-        "user": "Athelas",
+        "user": "𝕯𝖆𝖗𝖐𝖛𝖆𝖑𝖊",
         "count": 1
       }
     ],

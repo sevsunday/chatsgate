@@ -5,7 +5,7 @@
   "stats": {
     "messageCount": 43,
     "wordCount": 94,
-    "avgLength": 26.14,
+    "avgLength": 25.95,
     "activityScore": 78.7,
     "totalReactions": 0
   },
@@ -74,10 +74,10 @@
     "call": 1,
     "dnpan": 1,
     "exclusive": 1,
-    "jj173": 1,
+    "jj": 1,
     "become": 1,
     "opponent": 1,
-    "hypervivify": 1,
+    "vivify": 1,
     "scorings": 1,
     "settle": 1,
     "times": 1,
@@ -130,11 +130,11 @@
         "count": 1
       },
       {
-        "user": "JJ173",
+        "user": "JJ",
         "count": 1
       },
       {
-        "user": "HyperVivify",
+        "user": "Vivify",
         "count": 1
       }
     ],
@@ -144,7 +144,7 @@
         "count": 4
       },
       {
-        "user": "JJ173",
+        "user": "JJ",
         "count": 1
       }
     ],

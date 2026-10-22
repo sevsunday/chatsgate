@@ -3,34 +3,62 @@
   "displayName": "Moboy",
   "aliases": [],
   "stats": {
-    "messageCount": 43,
-    "wordCount": 181,
-    "avgLength": 46.12,
-    "activityScore": 139.6,
+    "messageCount": 92,
+    "wordCount": 329,
+    "avgLength": 37.93,
+    "activityScore": 257.9,
     "totalReactions": 1
   },
   "words": {
+    "game": 10,
+    "vsr": 6,
+    "ll": 6,
     "time": 5,
-    "game": 5,
-    "vsr": 4,
-    "ll": 4,
+    "tonight": 4,
+    "friends": 4,
+    "one": 3,
     "hop": 3,
+    "play": 3,
     "thought": 3,
-    "tonight": 3,
+    "guys": 3,
+    "crash": 3,
     "command": 3,
+    "around": 3,
+    "xd": 3,
     "everyone": 2,
-    "one": 2,
+    "day": 2,
     "didn": 2,
+    "cuz": 2,
+    "last": 2,
+    "hello": 2,
+    "probably": 2,
+    "missing": 2,
+    "idk": 2,
+    "crashed": 2,
+    "yes": 2,
+    "files": 2,
+    "issue": 2,
+    "pc": 2,
+    "drive": 2,
     "maybe": 2,
-    "guys": 2,
     "think": 2,
+    "ve": 2,
     "friend": 2,
     "issues": 2,
     "units": 2,
     "loses": 2,
+    "server": 2,
+    "strats": 2,
+    "soon": 2,
+    "new": 2,
+    "oh": 2,
+    "got": 2,
+    "stratting": 2,
+    "coming": 2,
+    "bad": 2,
+    "try": 2,
     "annoying": 2,
     "gtg": 2,
-    "around": 2,
     "thanks": 1,
     "games": 1,
     "mo": 1,
@@ -39,28 +67,23 @@
     "appriecate": 1,
     "asking": 1,
     "tho": 1,
-    "day": 1,
     "learn": 1,
     "arts": 1,
     "life": 1,
     "banger": 1,
     "video": 1,
     "hover": 1,
-    "cuz": 1,
     "suck": 1,
     "hang": 1,
     "man": 1,
     "quite": 1,
     "ooooh": 1,
     "forgot": 1,
-    "last": 1,
     "night": 1,
     "fuck": 1,
-    "play": 1,
     "someone": 1,
     "ping": 1,
     "match": 1,
-    "hello": 1,
     "discord": 1,
     "prompted": 1,
     "age": 1,
@@ -71,10 +94,37 @@
     "page": 1,
     "graphic": 1,
     "nudity": 1,
-    "probably": 1,
     "sand": 1,
     "color": 1,
     "funny": 1,
+    "additional": 1,
+    "items": 1,
+    "installed": 1,
+    "went": 1,
+    "resubscribe": 1,
+    "fe": 1,
+    "scions": 1,
+    "asset": 1,
+    "holiday": 1,
+    "zone": 1,
+    "looking": 1,
+    "logs": 1,
+    "verifying": 1,
+    "fix": 1,
+    "pure": 1,
+    "cope": 1,
+    "lmao": 1,
+    "ya": 1,
+    "bz2": 1,
+    "without": 1,
+    "pulling": 1,
+    "straight": 1,
+    "disc": 1,
+    "cd": 1,
+    "figured": 1,
+    "ripped": 1,
+    "uploaded": 1,
+    "somewhere": 1,
     "mic": 1,
     "obama": 1,
     "canonically": 1,
@@ -82,7 +132,6 @@
     "isdf": 1,
     "canceled": 1,
     "constellation": 1,
-    "ve": 1,
     "asked": 1,
     "chat": 1,
     "plays": 1,
@@ -93,25 +142,82 @@
     "sometimes": 1,
     "ship": 1,
     "happened": 1,
-    "crash": 1,
     "lost": 1,
     "building": 1,
     "unit": 1,
     "otherwise": 1,
     "works": 1,
     "fixed": 1,
-    "drive": 1,
-    "issue": 1,
+    "somalian": 1,
+    "child": 1,
+    "trafficking": 1,
+    "cares": 1,
+    "joined": 1,
+    "yo": 1,
+    "old": 1,
+    "nuked": 1,
+    "hadn": 1,
+    "checked": 1,
+    "good": 1,
+    "itching": 1,
+    "rusty": 1,
+    "messing": 1,
+    "back": 1,
+    "damn": 1,
+    "saw": 1,
+    "bots": 1,
+    "assumed": 1,
+    "raided": 1,
+    "crazy": 1,
+    "bet": 1,
+    "sent": 1,
+    "pfp": 1,
+    "almost": 1,
+    "year": 1,
+    "hit": 1,
+    "free": 1,
+    "re": 1,
+    "est": 1,
+    "york": 1,
+    "realize": 1,
+    "gotta": 1,
+    "install": 1,
+    "beta": 1,
+    "rq": 1,
+    "100": 1,
+    "misclicked": 1,
+    "esc": 1,
+    "console": 1,
+    "popped": 1,
+    "10th": 1,
+    "updated": 1,
+    "resubbing": 1,
+    "verified": 1,
+    "mpi": 1,
+    "running": 1,
+    "join": 1,
+    "next": 1,
+    "promises": 1,
+    "otw": 1,
+    "home": 1,
+    "yet": 1,
+    "15": 1,
+    "mins": 1,
+    "dam": 1,
+    "some1": 1,
+    "sounds": 1,
+    "loading": 1,
+    "computer": 1,
+    "pos": 1,
+    "anyways": 1,
+    "ggs": 1,
     "misunderstanding": 1,
     "practicing": 1,
-    "stratting": 1,
     "guess": 1,
     "take": 1,
     "matters": 1,
     "hands": 1,
-    "oh": 1,
     "weren": 1,
-    "coming": 1,
     "wanna": 1,
     "host": 1,
     "go": 1,
@@ -136,8 +242,6 @@
     "people": 1,
     "nvm": 1,
     "sorry": 1,
-    "bad": 1,
-    "yes": 1,
     "please": 1,
     "commanded": 1,
     "navs": 1,
@@ -152,13 +256,13 @@
     "infinite": 1,
     "loop": 1,
     "pissing": 1,
-    "friends": 1,
-    "try": 1,
     "catch": 1,
     "strat": 1
   },
   "phrases": {
-    "to hop": 3
+    "to hop": 3,
+    "the game": 4,
+    "my friends": 3
   },
   "timeline": {
     "daily": [
@@ -225,6 +329,38 @@
       {
         "date": "2025-07-18",
         "count": 2
+      },
+      {
+        "date": "2025-12-23",
+        "count": 20
+      },
+      {
+        "date": "2025-12-27",
+        "count": 1
+      },
+      {
+        "date": "2025-12-28",
+        "count": 17
+      },
+      {
+        "date": "2025-12-29",
+        "count": 1
+      },
+      {
+        "date": "2026-01-01",
+        "count": 1
+      },
+      {
+        "date": "2026-01-02",
+        "count": 5
+      },
+      {
+        "date": "2026-01-25",
+        "count": 1
+      },
+      {
+        "date": "2026-01-26",
+        "count": 3
       }
     ],
     "weekly": [
@@ -271,6 +407,22 @@
       {
         "week": "2025-W28",
         "count": 6
+      },
+      {
+        "week": "2025-W51",
+        "count": 21
+      },
+      {
+        "week": "2025-W52",
+        "count": 18
+      },
+      {
+        "week": "2026-W00",
+        "count": 6
+      },
+      {
+        "week": "2026-W04",
+        "count": 4
       }
     ],
     "monthly": [
@@ -297,21 +449,41 @@
       {
         "month": "2025-07",
         "count": 6
+      },
+      {
+        "month": "2025-12",
+        "count": 39
+      },
+      {
+        "month": "2026-01",
+        "count": 10
       }
     ]
   },
   "relationships": {
     "mentionsGiven": [
       {
-        "user": "Kowloon Walled City",
+        "user": "blue",
+        "count": 3
+      },
+      {
+        "user": "Celiac Sicklyo",
+        "count": 2
+      },
+      {
+        "user": "Feared_1",
+        "count": 1
+      },
+      {
+        "user": "Clovis Bray",
+        "count": 1
+      },
+      {
+        "user": "Deleted User",
         "count": 1
       },
       {
         "user": "MAX:)",
-        "count": 1
-      },
-      {
-        "user": "susteem is African",
         "count": 1
       },
       {
@@ -325,35 +497,43 @@
     ],
     "mentionsReceived": [
       {
-        "user": "Kowloon Walled City",
-        "count": 13
+        "user": "blue",
+        "count": 14
+      },
+      {
+        "user": "Celiac Sicklyo",
+        "count": 5
       },
       {
         "user": "VTrider",
         "count": 3
       },
       {
-        "user": "susteem is African",
+        "user": "Deleted User",
         "count": 3
       },
       {
-        "user": "JJ173",
+        "user": "F9bomber",
+        "count": 2
+      },
+      {
+        "user": "JJ",
         "count": 1
       },
       {
-        "user": "Deleted User",
+        "user": "charge5_c",
         "count": 1
       },
       {
-        "user": "Six Seven",
+        "user": "𝕯𝖆𝖗𝖐𝖛𝖆𝖑𝖊",
         "count": 1
       },
       {
-        "user": "Slyforion",
+        "user": "Lamper",
         "count": 1
       },
       {
-        "user": "Erotic Juice Princess",
+        "user": "Snow White Lion",
         "count": 1
       }
     ],

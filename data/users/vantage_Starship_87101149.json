@@ -203,15 +203,15 @@
   "relationships": {
     "mentionsGiven": [
       {
-        "user": "Cyber",
+        "user": "General Cyber",
         "count": 4
       },
       {
-        "user": "Kowloon Walled City",
+        "user": "blue",
         "count": 3
       },
       {
-        "user": "ᕭΛ𐍂ЖѴΔᒹΞ",
+        "user": "𝕯𝖆𝖗𝖐𝖛𝖆𝖑𝖊",
         "count": 3
       },
       {
@@ -227,25 +227,25 @@
         "count": 1
       },
       {
-        "user": "JJ173",
+        "user": "JJ",
         "count": 1
       },
       {
-        "user": "Slyforion",
+        "user": "Snow White Lion",
         "count": 1
       }
     ],
     "mentionsReceived": [
       {
-        "user": "Kowloon Walled City",
+        "user": "blue",
         "count": 3
       },
       {
-        "user": "ᕭΛ𐍂ЖѴΔᒹΞ",
+        "user": "𝕯𝖆𝖗𝖐𝖛𝖆𝖑𝖊",
         "count": 2
       },
       {
-        "user": "Cyber",
+        "user": "General Cyber",
         "count": 2
       }
     ],

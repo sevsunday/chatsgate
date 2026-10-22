@@ -1,0 +1,51 @@
+{
+  "userId": "247056308568588289",
+  "displayName": "galarbel",
+  "aliases": [],
+  "stats": {
+    "messageCount": 1,
+    "wordCount": 2,
+    "avgLength": 18.0,
+    "activityScore": 1.7,
+    "totalReactions": 0
+  },
+  "words": {
+    "joined": 1,
+    "server": 1
+  },
+  "phrases": {},
+  "timeline": {
+    "daily": [
+      {
+        "date": "2025-11-23",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week": "2025-W47",
+        "count": 1
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-11",
+        "count": 1
+      }
+    ]
+  },
+  "relationships": {
+    "mentionsGiven": [],
+    "mentionsReceived": [
+      {
+        "user": "syst౿m౿",
+        "count": 1
+      },
+      {
+        "user": "blue",
+        "count": 1
+      }
+    ],
+    "reactionsReceived": []
+  }
+}

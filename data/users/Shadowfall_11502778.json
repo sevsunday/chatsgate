@@ -1,0 +1,121 @@
+{
+  "userId": "1150277804454318110",
+  "displayName": "Shadowfall",
+  "aliases": [],
+  "stats": {
+    "messageCount": 14,
+    "wordCount": 55,
+    "avgLength": 37.93,
+    "activityScore": 42.7,
+    "totalReactions": 0
+  },
+  "words": {
+    "server": 3,
+    "joined": 2,
+    "bz1": 2,
+    "games": 2,
+    "made": 2,
+    "account": 2,
+    "strats": 1,
+    "mpi": 1,
+    "terrori": 1,
+    "sorry": 1,
+    "tourist": 1,
+    "yes": 1,
+    "strap": 1,
+    "ons": 1,
+    "vests": 1,
+    "gtg": 1,
+    "bit": 1,
+    "send": 1,
+    "stuff": 1,
+    "later": 1,
+    "nope": 1,
+    "oh": 1,
+    "lord": 1,
+    "share": 1,
+    "selfie": 1,
+    "bz": 1,
+    "someone": 1,
+    "locked": 1,
+    "behind": 1,
+    "bz2": 1,
+    "player": 1,
+    "role": 1,
+    "finish": 1,
+    "releasing": 1,
+    "rosario": 1,
+    "files": 1,
+    "vsr": 1,
+    "holy": 1,
+    "ground": 1,
+    "lurk": 1,
+    "old": 1,
+    "recovered": 1,
+    "years": 1,
+    "back": 1,
+    "new": 1,
+    "one": 1,
+    "hot": 1,
+    "mess": 1
+  },
+  "phrases": {},
+  "timeline": {
+    "daily": [
+      {
+        "date": "2025-09-14",
+        "count": 1
+      },
+      {
+        "date": "2025-09-21",
+        "count": 2
+      },
+      {
+        "date": "2025-12-23",
+        "count": 7
+      },
+      {
+        "date": "2025-12-29",
+        "count": 4
+      }
+    ],
+    "weekly": [
+      {
+        "week": "2025-W37",
+        "count": 1
+      },
+      {
+        "week": "2025-W38",
+        "count": 2
+      },
+      {
+        "week": "2025-W51",
+        "count": 7
+      },
+      {
+        "week": "2025-W52",
+        "count": 4
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-09",
+        "count": 3
+      },
+      {
+        "month": "2025-12",
+        "count": 11
+      }
+    ]
+  },
+  "relationships": {
+    "mentionsGiven": [],
+    "mentionsReceived": [
+      {
+        "user": "blue",
+        "count": 7
+      }
+    ],
+    "reactionsReceived": []
+  }
+}

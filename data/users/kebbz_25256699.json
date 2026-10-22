@@ -1,0 +1,47 @@
+{
+  "userId": "252566991251046405",
+  "displayName": "kebbz",
+  "aliases": [],
+  "stats": {
+    "messageCount": 1,
+    "wordCount": 2,
+    "avgLength": 18.0,
+    "activityScore": 1.7,
+    "totalReactions": 0
+  },
+  "words": {
+    "joined": 1,
+    "server": 1
+  },
+  "phrases": {},
+  "timeline": {
+    "daily": [
+      {
+        "date": "2026-04-30",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week": "2026-W17",
+        "count": 1
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2026-04",
+        "count": 1
+      }
+    ]
+  },
+  "relationships": {
+    "mentionsGiven": [],
+    "mentionsReceived": [
+      {
+        "user": "blue",
+        "count": 2
+      }
+    ],
+    "reactionsReceived": []
+  }
+}

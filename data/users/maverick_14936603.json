@@ -1,0 +1,93 @@
+{
+  "userId": "1493660384132075642",
+  "displayName": "maverick",
+  "aliases": [],
+  "stats": {
+    "messageCount": 8,
+    "wordCount": 15,
+    "avgLength": 20.62,
+    "activityScore": 12.9,
+    "totalReactions": 0
+  },
+  "words": {
+    "anyone": 1,
+    "hosting": 1,
+    "nerds": 1,
+    "normally": 1,
+    "play": 1,
+    "give": 1,
+    "mins": 1,
+    "stil": 1,
+    "blue": 1,
+    "one": 1,
+    "2v2": 1,
+    "nah": 1,
+    "fled": 1,
+    "joined": 1,
+    "server": 1
+  },
+  "phrases": {},
+  "timeline": {
+    "daily": [
+      {
+        "date": "2026-05-07",
+        "count": 1
+      },
+      {
+        "date": "2026-07-18",
+        "count": 1
+      },
+      {
+        "date": "2026-10-03",
+        "count": 6
+      }
+    ],
+    "weekly": [
+      {
+        "week": "2026-W18",
+        "count": 1
+      },
+      {
+        "week": "2026-W28",
+        "count": 1
+      },
+      {
+        "week": "2026-W39",
+        "count": 6
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2026-05",
+        "count": 1
+      },
+      {
+        "month": "2026-07",
+        "count": 1
+      },
+      {
+        "month": "2026-10",
+        "count": 6
+      }
+    ]
+  },
+  "relationships": {
+    "mentionsGiven": [
+      {
+        "user": "blue",
+        "count": 1
+      }
+    ],
+    "mentionsReceived": [
+      {
+        "user": "Erotic Juice Princess",
+        "count": 2
+      },
+      {
+        "user": "Aggressor",
+        "count": 1
+      }
+    ],
+    "reactionsReceived": []
+  }
+}

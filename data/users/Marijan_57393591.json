@@ -1,50 +1,49 @@
 {
-  "userId": "1358133206250950707",
-  "displayName": "Aki Graves",
+  "userId": "573935913001025565",
+  "displayName": "Marijan",
   "aliases": [],
   "stats": {
     "messageCount": 2,
     "wordCount": 3,
-    "avgLength": 13.0,
+    "avgLength": 11.5,
     "activityScore": 2.7,
     "totalReactions": 0
   },
   "words": {
+    "flip": 1,
     "joined": 1,
-    "server": 1,
-    "vanilla": 1
+    "server": 1
   },
   "phrases": {},
   "timeline": {
     "daily": [
       {
-        "date": "2025-08-03",
+        "date": "2025-12-06",
         "count": 2
       }
     ],
     "weekly": [
       {
-        "week": "2025-W31",
+        "week": "2025-W48",
         "count": 2
       }
     ],
     "monthly": [
       {
-        "month": "2025-08",
+        "month": "2025-12",
         "count": 2
       }
     ]
   },
   "relationships": {
-    "mentionsGiven": [
-      {
-        "user": "Kowloon Walled City",
-        "count": 1
-      }
-    ],
+    "mentionsGiven": [],
     "mentionsReceived": [
       {
-        "user": "Kowloon Walled City",
+        "user": "blue",
+        "count": 1
+      },
+      {
+        "user": "Erotic Juice Princess",
         "count": 1
       }
     ],

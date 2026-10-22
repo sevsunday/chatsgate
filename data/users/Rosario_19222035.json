@@ -369,7 +369,7 @@
   "relationships": {
     "mentionsGiven": [
       {
-        "user": "JJ173",
+        "user": "JJ",
         "count": 9
       },
       {
@@ -389,7 +389,7 @@
         "count": 1
       },
       {
-        "user": "Cyber",
+        "user": "General Cyber",
         "count": 1
       },
       {
@@ -399,7 +399,7 @@
     ],
     "mentionsReceived": [
       {
-        "user": "JJ173",
+        "user": "JJ",
         "count": 6
       },
       {
@@ -427,11 +427,11 @@
         "count": 1
       },
       {
-        "user": "susteem is African",
+        "user": "Celiac Sicklyo",
         "count": 1
       },
       {
-        "user": "Bad scion player",
+        "user": "Krees",
         "count": 1
       }
     ],

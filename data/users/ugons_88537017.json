@@ -3,14 +3,15 @@
   "displayName": "ugons",
   "aliases": [],
   "stats": {
-    "messageCount": 15,
-    "wordCount": 40,
-    "avgLength": 22.87,
-    "activityScore": 32.5,
-    "totalReactions": 4
+    "messageCount": 21,
+    "wordCount": 48,
+    "avgLength": 23.0,
+    "activityScore": 39.9,
+    "totalReactions": 9
   },
   "words": {
-    "enjoy": 2,
+    "enjoy": 3,
+    "good": 3,
     "infinite": 2,
     "krush": 1,
     "loose": 1,
@@ -22,6 +23,11 @@
     "coxxon": 1,
     "always": 1,
     "wins": 1,
+    "joined": 1,
+    "server": 1,
+    "est": 1,
+    "hi": 1,
+    "blue": 1,
     "smack": 1,
     "outta": 1,
     "mouth": 1,
@@ -33,7 +39,6 @@
     "fueker": 1,
     "cockpit": 1,
     "resnah": 1,
-    "good": 1,
     "thanks": 1,
     "though": 1,
     "hurricane": 1,
@@ -83,6 +88,18 @@
       {
         "date": "2024-11-11",
         "count": 2
+      },
+      {
+        "date": "2026-03-11",
+        "count": 4
+      },
+      {
+        "date": "2026-10-06",
+        "count": 1
+      },
+      {
+        "date": "2026-10-10",
+        "count": 1
       }
     ],
     "weekly": [
@@ -113,6 +130,14 @@
       {
         "week": "2024-W45",
         "count": 2
+      },
+      {
+        "week": "2026-W10",
+        "count": 4
+      },
+      {
+        "week": "2026-W40",
+        "count": 2
       }
     ],
     "monthly": [
@@ -135,6 +160,14 @@
       {
         "month": "2024-11",
         "count": 2
+      },
+      {
+        "month": "2026-03",
+        "count": 4
+      },
+      {
+        "month": "2026-10",
+        "count": 2
       }
     ]
   },
@@ -142,12 +175,20 @@
     "mentionsGiven": [],
     "mentionsReceived": [
       {
-        "user": "susteem is African",
+        "user": "Celiac Sicklyo",
         "count": 3
       },
       {
-        "user": "Kowloon Walled City",
+        "user": "blue",
         "count": 2
+      },
+      {
+        "user": "Totes Mcgee",
+        "count": 1
+      },
+      {
+        "user": "Aggressor",
+        "count": 1
       },
       {
         "user": "VTrider",
@@ -158,17 +199,21 @@
         "count": 1
       },
       {
-        "user": "Bad scion player",
+        "user": "Krees",
         "count": 1
       }
     ],
     "reactionsReceived": [
       {
+        "emoji": "shcscribe",
+        "count": 5
+      },
+      {
         "emoji": "😂",
         "count": 3
       },
       {
-        "emoji": "shcscribe",
+        "emoji": "💰",
         "count": 1
       }
     ]

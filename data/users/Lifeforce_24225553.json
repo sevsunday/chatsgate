@@ -1,0 +1,56 @@
+{
+  "userId": "242255532193218561",
+  "displayName": "Lifeforce",
+  "aliases": [],
+  "stats": {
+    "messageCount": 3,
+    "wordCount": 11,
+    "avgLength": 36.67,
+    "activityScore": 8.6,
+    "totalReactions": 0
+  },
+  "words": {
+    "joined": 1,
+    "server": 1,
+    "good": 1,
+    "mornin": 1,
+    "nick": 1,
+    "played": 1,
+    "gfa": 1,
+    "blackhawk": 1,
+    "back": 1,
+    "2002": 1,
+    "2005": 1
+  },
+  "phrases": {},
+  "timeline": {
+    "daily": [
+      {
+        "date": "2026-09-15",
+        "count": 3
+      }
+    ],
+    "weekly": [
+      {
+        "week": "2026-W37",
+        "count": 3
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2026-09",
+        "count": 3
+      }
+    ]
+  },
+  "relationships": {
+    "mentionsGiven": [],
+    "mentionsReceived": [
+      {
+        "user": "Aggressor",
+        "count": 2
+      }
+    ],
+    "reactionsReceived": []
+  }
+}

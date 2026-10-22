@@ -1,0 +1,158 @@
+{
+  "userId": "830178659716431872",
+  "displayName": "BMR GreyFax",
+  "aliases": [],
+  "stats": {
+    "messageCount": 21,
+    "wordCount": 122,
+    "avgLength": 60.57,
+    "activityScore": 91.7,
+    "totalReactions": 4
+  },
+  "words": {
+    "hebrew": 5,
+    "doma": 4,
+    "back": 3,
+    "ho": 3,
+    "logos": 3,
+    "take": 3,
+    "used": 2,
+    "dinner": 2,
+    "didn": 2,
+    "people": 2,
+    "care": 2,
+    "kai": 2,
+    "greek": 2,
+    "fun": 2,
+    "night": 2,
+    "joined": 1,
+    "server": 1,
+    "howdy": 1,
+    "pastor": 1,
+    "soooo": 1,
+    "ready": 1,
+    "stop": 1,
+    "statemnt": 1,
+    "complete": 1,
+    "yep": 1,
+    "lot": 1,
+    "things": 1,
+    "went": 1,
+    "became": 1,
+    "teacher": 1,
+    "service": 1,
+    "management": 1,
+    "best": 1,
+    "practices": 1,
+    "1994": 1,
+    "nope": 1,
+    "personal": 1,
+    "reasons": 1,
+    "troll": 1,
+    "chat": 1,
+    "name": 1,
+    "subset": 1,
+    "dom": 1,
+    "feel": 1,
+    "8th": 1,
+    "grade": 1,
+    "chatting": 1,
+    "anyway": 1,
+    "time": 1,
+    "eat": 1,
+    "later": 1,
+    "boys": 1,
+    "en": 1,
+    "arch": 1,
+    "pros": 1,
+    "ton": 1,
+    "theon": 1,
+    "theos": 1,
+    "took": 1,
+    "four": 1,
+    "years": 1,
+    "real": 1,
+    "christian": 1,
+    "pastors": 1,
+    "study": 1,
+    "taking": 1,
+    "bait": 1,
+    "yes": 1,
+    "old": 1,
+    "testemant": 1,
+    "written": 1,
+    "comma": 1,
+    "aramaic": 1,
+    "word": 1,
+    "gift": 1,
+    "goading": 1,
+    "someone": 1,
+    "else": 1,
+    "attempt": 1,
+    "scape": 1,
+    "goat": 1,
+    "failed": 1,
+    "ohh": 1,
+    "seek": 1,
+    "forgiveness": 1,
+    "transgression": 1,
+    "done": 1,
+    "except": 1,
+    "one": 1,
+    "misrepresenting": 1,
+    "language": 1,
+    "god": 1,
+    "chosen": 1,
+    "perhaps": 1,
+    "go": 1,
+    "refresher": 1,
+    "course": 1,
+    "nighty": 1
+  },
+  "phrases": {
+    "ho logos": 3
+  },
+  "timeline": {
+    "daily": [
+      {
+        "date": "2026-06-06",
+        "count": 21
+      }
+    ],
+    "weekly": [
+      {
+        "week": "2026-W22",
+        "count": 21
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2026-06",
+        "count": 21
+      }
+    ]
+  },
+  "relationships": {
+    "mentionsGiven": [],
+    "mentionsReceived": [
+      {
+        "user": "Doma",
+        "count": 6
+      },
+      {
+        "user": "Lamper",
+        "count": 1
+      }
+    ],
+    "reactionsReceived": [
+      {
+        "emoji": "😂",
+        "count": 2
+      },
+      {
+        "emoji": "❤️",
+        "count": 2
+      }
+    ]
+  }
+}

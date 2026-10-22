@@ -3,15 +3,21 @@
   "displayName": "Gryphon.DX",
   "aliases": [],
   "stats": {
-    "messageCount": 1,
-    "wordCount": 2,
-    "avgLength": 18.0,
-    "activityScore": 1.7,
-    "totalReactions": 0
+    "messageCount": 4,
+    "wordCount": 11,
+    "avgLength": 27.0,
+    "activityScore": 8.9,
+    "totalReactions": 1
   },
   "words": {
-    "joined": 1,
-    "server": 1
+    "server": 3,
+    "joined": 2,
+    "hey": 1,
+    "pinned": 1,
+    "link": 1,
+    "top": 1,
+    "come": 1,
+    "handy": 1
   },
   "phrases": {},
   "timeline": {
@@ -19,18 +25,30 @@
       {
         "date": "2025-07-25",
         "count": 1
+      },
+      {
+        "date": "2026-01-10",
+        "count": 3
       }
     ],
     "weekly": [
       {
         "week": "2025-W29",
         "count": 1
+      },
+      {
+        "week": "2026-W01",
+        "count": 3
       }
     ],
     "monthly": [
       {
         "month": "2025-07",
         "count": 1
+      },
+      {
+        "month": "2026-01",
+        "count": 3
       }
     ]
   },
@@ -38,14 +56,23 @@
     "mentionsGiven": [],
     "mentionsReceived": [
       {
-        "user": "Kowloon Walled City",
+        "user": "blue",
         "count": 4
       },
       {
         "user": "F9bomber",
         "count": 2
+      },
+      {
+        "user": "General Cyber",
+        "count": 1
       }
     ],
-    "reactionsReceived": []
+    "reactionsReceived": [
+      {
+        "emoji": "👋",
+        "count": 1
+      }
+    ]
   }
 }

@@ -1,0 +1,232 @@
+{
+  "userId": "1457085450530586655",
+  "displayName": "Toine",
+  "aliases": [],
+  "stats": {
+    "messageCount": 45,
+    "wordCount": 193,
+    "avgLength": 52.76,
+    "activityScore": 148.6,
+    "totalReactions": 4
+  },
+  "words": {
+    "battlezone": 10,
+    "server": 8,
+    "gold": 6,
+    "windows": 6,
+    "one": 4,
+    "advertised": 3,
+    "says": 3,
+    "community": 3,
+    "play": 3,
+    "russian": 3,
+    "last": 2,
+    "back": 2,
+    "playing": 2,
+    "old": 2,
+    "game": 2,
+    "github": 2,
+    "search": 2,
+    "people": 2,
+    "first": 2,
+    "kind": 2,
+    "attempted": 2,
+    "computer": 2,
+    "credit": 2,
+    "card": 2,
+    "install": 2,
+    "11": 2,
+    "10": 2,
+    "unsupported": 2,
+    "notepad": 2,
+    "ai": 2,
+    "browser": 2,
+    "trying": 2,
+    "joined": 1,
+    "digits": 1,
+    "enough": 1,
+    "ssn": 1,
+    "6767": 1,
+    "cvv": 1,
+    "420": 1,
+    "matchmaking": 1,
+    "coinflip": 1,
+    "nsfw": 1,
+    "channels": 1,
+    "everyone": 1,
+    "seems": 1,
+    "bit": 1,
+    "unusual": 1,
+    "ll": 1,
+    "check": 1,
+    "discords": 1,
+    "instead": 1,
+    "found": 1,
+    "page": 1,
+    "google": 1,
+    "recommend": 1,
+    "rust": 1,
+    "going": 1,
+    "steam": 1,
+    "profile": 1,
+    "following": 1,
+    "1999": 1,
+    "tab": 1,
+    "open": 1,
+    "lamper": 1,
+    "link": 1,
+    "result": 1,
+    "number": 1,
+    "hacker": 1,
+    "oh": 1,
+    "wait": 1,
+    "leaked": 1,
+    "ip": 1,
+    "reporting": 1,
+    "intrusion": 1,
+    "fraud": 1,
+    "collected": 1,
+    "necessary": 1,
+    "evidence": 1,
+    "mean": 1,
+    "appreciate": 1,
+    "recommendation": 1,
+    "installing": 1,
+    "couldn": 1,
+    "went": 1,
+    "option": 1,
+    "operating": 1,
+    "system": 1,
+    "makes": 1,
+    "sense": 1,
+    "go": 1,
+    "preferred": 1,
+    "paint": 1,
+    "app": 1,
+    "microsoft": 1,
+    "account": 1,
+    "calendar": 1,
+    "days": 1,
+    "stop": 1,
+    "making": 1,
+    "excuses": 1,
+    "corporation": 1,
+    "least": 1,
+    "better": 1,
+    "every": 1,
+    "made": 1,
+    "feel": 1,
+    "free": 1,
+    "try": 1,
+    "part": 1,
+    "multiple": 1,
+    "servers": 1,
+    "exited": 1,
+    "several": 1,
+    "seem": 1,
+    "weird": 1,
+    "bunch": 1,
+    "though": 1,
+    "scam": 1,
+    "information": 1,
+    "pay": 1,
+    "access": 1,
+    "isn": 1,
+    "specifically": 1,
+    "distinguish": 1,
+    "various": 1,
+    "versions": 1,
+    "anyone": 1,
+    "trolled": 1,
+    "using": 1,
+    "engine": 1,
+    "problem": 1,
+    "compared": 1
+  },
+  "phrases": {
+    "the server": 3,
+    "battlezone gold": 4,
+    "this server": 3,
+    "the battlezone": 3
+  },
+  "timeline": {
+    "daily": [
+      {
+        "date": "2026-01-04",
+        "count": 31
+      },
+      {
+        "date": "2026-01-05",
+        "count": 14
+      }
+    ],
+    "weekly": [
+      {
+        "week": "2026-W01",
+        "count": 45
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2026-01",
+        "count": 45
+      }
+    ]
+  },
+  "relationships": {
+    "mentionsGiven": [
+      {
+        "user": "F9bomber",
+        "count": 3
+      },
+      {
+        "user": "Celiac Sicklyo",
+        "count": 1
+      },
+      {
+        "user": "𝕯𝖆𝖗𝖐𝖛𝖆𝖑𝖊",
+        "count": 1
+      },
+      {
+        "user": "JJ",
+        "count": 1
+      }
+    ],
+    "mentionsReceived": [
+      {
+        "user": "F9bomber",
+        "count": 7
+      },
+      {
+        "user": "JJ",
+        "count": 4
+      },
+      {
+        "user": "charge5_c",
+        "count": 2
+      },
+      {
+        "user": "syst౿m౿",
+        "count": 1
+      }
+    ],
+    "reactionsReceived": [
+      {
+        "emoji": "❌",
+        "count": 1
+      },
+      {
+        "emoji": "👍",
+        "count": 1
+      },
+      {
+        "emoji": "☝️",
+        "count": 1
+      },
+      {
+        "emoji": "B_LOL",
+        "count": 1
+      }
+    ]
+  }
+}

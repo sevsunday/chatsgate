@@ -131,7 +131,7 @@
   "relationships": {
     "mentionsGiven": [
       {
-        "user": "ᕭΛ𐍂ЖѴΔᒹΞ",
+        "user": "𝕯𝖆𝖗𝖐𝖛𝖆𝖑𝖊",
         "count": 2
       },
       {
@@ -139,7 +139,7 @@
         "count": 1
       },
       {
-        "user": "Reacher",
+        "user": "Deleted User",
         "count": 1
       },
       {
@@ -147,25 +147,21 @@
         "count": 1
       },
       {
-        "user": "Kowloon Walled City",
+        "user": "blue",
         "count": 1
       }
     ],
     "mentionsReceived": [
       {
-        "user": "Kowloon Walled City",
+        "user": "blue",
         "count": 3
-      },
-      {
-        "user": "Reacher",
-        "count": 2
       },
       {
         "user": "F9bomber",
         "count": 1
       },
       {
-        "user": "ᕭΛ𐍂ЖѴΔᒹΞ",
+        "user": "𝕯𝖆𝖗𝖐𝖛𝖆𝖑𝖊",
         "count": 1
       },
       {

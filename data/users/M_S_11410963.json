@@ -3,20 +3,26 @@
   "displayName": "M.S",
   "aliases": [],
   "stats": {
-    "messageCount": 56,
-    "wordCount": 64,
-    "avgLength": 7.38,
-    "activityScore": 61.6,
+    "messageCount": 94,
+    "wordCount": 148,
+    "avgLength": 10.11,
+    "activityScore": 131.8,
     "totalReactions": 1
   },
   "words": {
-    "game": 24,
-    "10": 11,
+    "game": 47,
+    "bz2": 21,
+    "player": 21,
+    "10": 20,
     "strat": 4,
+    "zack": 4,
     "ok": 4,
-    "bz2": 3,
-    "player": 3,
+    "yes": 2,
+    "back": 2,
     "bro": 2,
+    "20": 1,
+    "mins": 1,
+    "yea": 1,
     "joined": 1,
     "server": 1,
     "assault": 1,
@@ -24,19 +30,30 @@
     "walker": 1,
     "servise": 1,
     "truck": 1,
-    "zack": 1,
     "monkey": 1,
     "3v3": 1,
+    "mm": 1,
+    "afk": 1,
+    "come": 1,
+    "join": 1,
+    "t1": 1,
+    "play": 1,
+    "new": 1,
     "host": 1,
-    "yes": 1,
     "st": 1
   },
   "phrases": {
     "strat up": 3,
-    "game up": 24,
-    "up 10": 3,
-    "game up 10": 3,
-    "bz2 player": 3
+    "game up": 47,
+    "up 10": 9,
+    "game up 10": 9,
+    "bz2 player": 21,
+    "player game": 17,
+    "bz2 player game": 17,
+    "player game up": 17,
+    "bz2 player game up": 17,
+    "player game up 10": 6,
+    "bz2 player game up 10": 6
   },
   "timeline": {
     "daily": [
@@ -155,6 +172,98 @@
       {
         "date": "2025-11-04",
         "count": 2
+      },
+      {
+        "date": "2025-11-25",
+        "count": 7
+      },
+      {
+        "date": "2025-11-26",
+        "count": 1
+      },
+      {
+        "date": "2025-12-24",
+        "count": 4
+      },
+      {
+        "date": "2026-01-20",
+        "count": 1
+      },
+      {
+        "date": "2026-01-26",
+        "count": 1
+      },
+      {
+        "date": "2026-02-14",
+        "count": 5
+      },
+      {
+        "date": "2026-02-15",
+        "count": 1
+      },
+      {
+        "date": "2026-02-25",
+        "count": 1
+      },
+      {
+        "date": "2026-02-28",
+        "count": 1
+      },
+      {
+        "date": "2026-03-01",
+        "count": 1
+      },
+      {
+        "date": "2026-03-05",
+        "count": 2
+      },
+      {
+        "date": "2026-03-07",
+        "count": 1
+      },
+      {
+        "date": "2026-03-08",
+        "count": 1
+      },
+      {
+        "date": "2026-03-10",
+        "count": 1
+      },
+      {
+        "date": "2026-03-11",
+        "count": 2
+      },
+      {
+        "date": "2026-03-12",
+        "count": 1
+      },
+      {
+        "date": "2026-03-13",
+        "count": 1
+      },
+      {
+        "date": "2026-03-24",
+        "count": 1
+      },
+      {
+        "date": "2026-03-31",
+        "count": 1
+      },
+      {
+        "date": "2026-04-01",
+        "count": 1
+      },
+      {
+        "date": "2026-05-10",
+        "count": 1
+      },
+      {
+        "date": "2026-05-11",
+        "count": 1
+      },
+      {
+        "date": "2026-05-12",
+        "count": 1
       }
     ],
     "weekly": [
@@ -249,6 +358,54 @@
       {
         "week": "2025-W44",
         "count": 2
+      },
+      {
+        "week": "2025-W47",
+        "count": 8
+      },
+      {
+        "week": "2025-W51",
+        "count": 4
+      },
+      {
+        "week": "2026-W03",
+        "count": 1
+      },
+      {
+        "week": "2026-W04",
+        "count": 1
+      },
+      {
+        "week": "2026-W06",
+        "count": 5
+      },
+      {
+        "week": "2026-W07",
+        "count": 1
+      },
+      {
+        "week": "2026-W08",
+        "count": 2
+      },
+      {
+        "week": "2026-W09",
+        "count": 4
+      },
+      {
+        "week": "2026-W10",
+        "count": 6
+      },
+      {
+        "week": "2026-W12",
+        "count": 1
+      },
+      {
+        "week": "2026-W13",
+        "count": 2
+      },
+      {
+        "week": "2026-W19",
+        "count": 3
       }
     ],
     "monthly": [
@@ -306,23 +463,56 @@
       },
       {
         "month": "2025-11",
+        "count": 10
+      },
+      {
+        "month": "2025-12",
+        "count": 4
+      },
+      {
+        "month": "2026-01",
         "count": 2
+      },
+      {
+        "month": "2026-02",
+        "count": 8
+      },
+      {
+        "month": "2026-03",
+        "count": 12
+      },
+      {
+        "month": "2026-04",
+        "count": 1
+      },
+      {
+        "month": "2026-05",
+        "count": 3
       }
     ]
   },
   "relationships": {
-    "mentionsGiven": [],
+    "mentionsGiven": [
+      {
+        "user": "Zack",
+        "count": 1
+      }
+    ],
     "mentionsReceived": [
+      {
+        "user": "blue",
+        "count": 8
+      },
       {
         "user": "Deleted User",
         "count": 7
       },
       {
-        "user": "Kowloon Walled City",
-        "count": 5
+        "user": "General Cyber",
+        "count": 3
       },
       {
-        "user": "Bad scion player",
+        "user": "Krees",
         "count": 3
       },
       {
@@ -330,15 +520,15 @@
         "count": 1
       },
       {
-        "user": "jade",
+        "user": "mort",
         "count": 1
       },
       {
-        "user": "Reacher",
+        "user": "JJ",
         "count": 1
       },
       {
-        "user": "Cyber",
+        "user": "Zack",
         "count": 1
       }
     ],

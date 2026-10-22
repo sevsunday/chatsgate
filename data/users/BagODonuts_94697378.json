@@ -369,7 +369,7 @@
   "relationships": {
     "mentionsGiven": [
       {
-        "user": "Kowloon Walled City",
+        "user": "blue",
         "count": 4
       },
       {
@@ -381,19 +381,19 @@
         "count": 2
       },
       {
-        "user": "JJ173",
+        "user": "JJ",
         "count": 2
       },
       {
-        "user": "susteem is African",
+        "user": "Celiac Sicklyo",
         "count": 2
       },
       {
-        "user": "Six Seven",
+        "user": "Lamper",
         "count": 2
       },
       {
-        "user": "Slyforion",
+        "user": "Snow White Lion",
         "count": 1
       },
       {
@@ -407,15 +407,15 @@
     ],
     "mentionsReceived": [
       {
-        "user": "Kowloon Walled City",
+        "user": "blue",
         "count": 9
       },
       {
-        "user": "susteem is African",
+        "user": "Celiac Sicklyo",
         "count": 5
       },
       {
-        "user": "JJ173",
+        "user": "JJ",
         "count": 1
       },
       {
@@ -423,7 +423,7 @@
         "count": 1
       },
       {
-        "user": "HyperVivify",
+        "user": "Vivify",
         "count": 1
       },
       {
@@ -431,7 +431,7 @@
         "count": 1
       },
       {
-        "user": "Slyforion",
+        "user": "Snow White Lion",
         "count": 1
       }
     ],

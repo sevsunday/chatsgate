@@ -3,16 +3,27 @@
   "displayName": "masetheshokker",
   "aliases": [],
   "stats": {
-    "messageCount": 2,
-    "wordCount": 3,
-    "avgLength": 10.0,
-    "activityScore": 2.7,
-    "totalReactions": 0
+    "messageCount": 5,
+    "wordCount": 16,
+    "avgLength": 25.0,
+    "activityScore": 12.7,
+    "totalReactions": 1
   },
   "words": {
+    "joined": 2,
+    "server": 2,
     "hi": 1,
-    "joined": 1,
-    "server": 1
+    "going": 1,
+    "delete": 1,
+    "vsr": 1,
+    "steam": 1,
+    "chat": 1,
+    "soon": 1,
+    "since": 1,
+    "nobody": 1,
+    "used": 1,
+    "year": 1,
+    "10": 1
   },
   "phrases": {},
   "timeline": {
@@ -24,6 +35,18 @@
       {
         "date": "2025-10-07",
         "count": 1
+      },
+      {
+        "date": "2025-12-06",
+        "count": 1
+      },
+      {
+        "date": "2026-01-27",
+        "count": 1
+      },
+      {
+        "date": "2026-09-27",
+        "count": 1
       }
     ],
     "weekly": [
@@ -33,6 +56,18 @@
       },
       {
         "week": "2025-W40",
+        "count": 1
+      },
+      {
+        "week": "2025-W48",
+        "count": 1
+      },
+      {
+        "week": "2026-W04",
+        "count": 1
+      },
+      {
+        "week": "2026-W39",
         "count": 1
       }
     ],
@@ -44,6 +79,18 @@
       {
         "month": "2025-10",
         "count": 1
+      },
+      {
+        "month": "2025-12",
+        "count": 1
+      },
+      {
+        "month": "2026-01",
+        "count": 1
+      },
+      {
+        "month": "2026-09",
+        "count": 1
       }
     ]
   },
@@ -51,10 +98,27 @@
     "mentionsGiven": [],
     "mentionsReceived": [
       {
-        "user": "Kowloon Walled City",
+        "user": "blue",
+        "count": 1
+      },
+      {
+        "user": "Erotic Juice Princess",
+        "count": 1
+      },
+      {
+        "user": "HappyOtter",
+        "count": 1
+      },
+      {
+        "user": "JJ",
         "count": 1
       }
     ],
-    "reactionsReceived": []
+    "reactionsReceived": [
+      {
+        "emoji": "k_victory1",
+        "count": 1
+      }
+    ]
   }
 }

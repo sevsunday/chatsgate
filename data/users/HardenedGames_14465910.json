@@ -1,0 +1,49 @@
+{
+  "userId": "1446591017662021702",
+  "displayName": "HardenedGames",
+  "aliases": [],
+  "stats": {
+    "messageCount": 5,
+    "wordCount": 9,
+    "avgLength": 14.0,
+    "activityScore": 7.8,
+    "totalReactions": 0
+  },
+  "words": {
+    "joined": 1,
+    "server": 1,
+    "nah": 1,
+    "re": 1,
+    "trying": 1,
+    "look": 1,
+    "bz2": 1,
+    "making": 1,
+    "games": 1
+  },
+  "phrases": {},
+  "timeline": {
+    "daily": [
+      {
+        "date": "2026-01-05",
+        "count": 5
+      }
+    ],
+    "weekly": [
+      {
+        "week": "2026-W01",
+        "count": 5
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2026-01",
+        "count": 5
+      }
+    ]
+  },
+  "relationships": {
+    "mentionsGiven": [],
+    "mentionsReceived": [],
+    "reactionsReceived": []
+  }
+}

@@ -3,49 +3,53 @@
   "displayName": "Maverick",
   "aliases": [],
   "stats": {
-    "messageCount": 106,
-    "wordCount": 299,
-    "avgLength": 30.08,
-    "activityScore": 241.1,
+    "messageCount": 116,
+    "wordCount": 325,
+    "avgLength": 29.76,
+    "activityScore": 262.3,
     "totalReactions": 2
   },
   "words": {
+    "anyone": 9,
     "game": 8,
-    "anyone": 7,
     "one": 6,
     "okay": 6,
+    "bz": 5,
     "going": 5,
-    "bz": 4,
+    "maps": 5,
+    "guys": 5,
     "lc": 4,
-    "maps": 4,
     "want": 4,
+    "made": 4,
     "already": 4,
     "back": 4,
-    "guys": 4,
     "play": 4,
     "games": 4,
-    "made": 3,
     "ones": 3,
     "sent": 3,
+    "racist": 3,
+    "white": 3,
     "everyone": 3,
     "come": 3,
     "got": 3,
     "let": 2,
+    "help": 2,
     "yes": 2,
     "map": 2,
     "never": 2,
     "done": 2,
     "oh": 2,
     "ready": 2,
+    "figure": 2,
     "use": 2,
     "hey": 2,
     "told": 2,
     "guess": 2,
+    "baby": 2,
     "say": 2,
     "nigger": 2,
     "word": 2,
     "ever": 2,
-    "racist": 2,
     "said": 2,
     "mixed": 2,
     "full": 2,
@@ -53,6 +57,7 @@
     "much": 2,
     "f9": 2,
     "dc": 2,
+    "hosting": 2,
     "lcs": 2,
     "getting": 2,
     "bitch": 2,
@@ -64,7 +69,6 @@
     "talking": 1,
     "playing": 1,
     "ends": 1,
-    "help": 1,
     "bxeditor": 1,
     "summit": 1,
     "old": 1,
@@ -88,7 +92,6 @@
     "lost": 1,
     "go": 1,
     "trying": 1,
-    "figure": 1,
     "blank": 1,
     "mapp": 1,
     "uploader": 1,
@@ -118,6 +121,14 @@
     "t0": 1,
     "asking": 1,
     "spots": 1,
+    "listen": 1,
+    "niggers": 1,
+    "spics": 1,
+    "beaners": 1,
+    "chinks": 1,
+    "power": 1,
+    "amen": 1,
+    "jesus": 1,
     "harmless": 1,
     "words": 1,
     "lmfao": 1,
@@ -142,7 +153,6 @@
     "personally": 1,
     "wondering": 1,
     "nerdy": 1,
-    "white": 1,
     "kids": 1,
     "call": 1,
     "blackies": 1,
@@ -202,7 +212,6 @@
     "feeling": 1,
     "host": 1,
     "comr": 1,
-    "hosting": 1,
     "mins": 1,
     "reg": 1,
     "car": 1,
@@ -215,7 +224,11 @@
     "helped": 1,
     "yesterday": 1,
     "trolled": 1,
-    "point": 1
+    "point": 1,
+    "mind": 1,
+    "helping": 1,
+    "edior": 1,
+    "maybe": 1
   },
   "phrases": {
     "going to": 3,
@@ -341,6 +354,18 @@
       {
         "date": "2025-08-12",
         "count": 2
+      },
+      {
+        "date": "2025-12-18",
+        "count": 8
+      },
+      {
+        "date": "2026-02-12",
+        "count": 1
+      },
+      {
+        "date": "2026-02-21",
+        "count": 1
       }
     ],
     "weekly": [
@@ -407,6 +432,18 @@
       {
         "week": "2025-W32",
         "count": 2
+      },
+      {
+        "week": "2025-W50",
+        "count": 8
+      },
+      {
+        "week": "2026-W06",
+        "count": 1
+      },
+      {
+        "week": "2026-W07",
+        "count": 1
       }
     ],
     "monthly": [
@@ -445,6 +482,14 @@
       {
         "month": "2025-08",
         "count": 12
+      },
+      {
+        "month": "2025-12",
+        "count": 8
+      },
+      {
+        "month": "2026-02",
+        "count": 2
       }
     ]
   },
@@ -456,15 +501,19 @@
         "count": 6
       },
       {
-        "user": "Kowloon Walled City",
-        "count": 4
-      },
-      {
-        "user": "JJ173",
-        "count": 4
-      },
-      {
         "user": "Zack",
+        "count": 5
+      },
+      {
+        "user": "blue",
+        "count": 4
+      },
+      {
+        "user": "JJ",
+        "count": 4
+      },
+      {
+        "user": "Deleted User",
         "count": 4
       },
       {
@@ -472,11 +521,7 @@
         "count": 4
       },
       {
-        "user": "Deleted User",
-        "count": 3
-      },
-      {
-        "user": "Bad scion player",
+        "user": "Krees",
         "count": 2
       },
       {
@@ -484,11 +529,11 @@
         "count": 1
       },
       {
-        "user": "ᕭΛ𐍂ЖѴΔᒹΞ",
+        "user": "charge5_c",
         "count": 1
       },
       {
-        "user": "Reacher",
+        "user": "𝕯𝖆𝖗𝖐𝖛𝖆𝖑𝖊",
         "count": 1
       }
     ],

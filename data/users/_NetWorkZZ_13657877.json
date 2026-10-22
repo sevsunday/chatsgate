@@ -1,0 +1,142 @@
+{
+  "userId": "1365787797163606138",
+  "displayName": "_NetWorkZZ",
+  "aliases": [],
+  "stats": {
+    "messageCount": 48,
+    "wordCount": 73,
+    "avgLength": 13.0,
+    "activityScore": 65.5,
+    "totalReactions": 1
+  },
+  "words": {
+    "french": 3,
+    "10": 2,
+    "ty": 2,
+    "join": 2,
+    "joined": 1,
+    "server": 1,
+    "hii": 1,
+    "bomber": 1,
+    "invited": 1,
+    "excuse": 1,
+    "play": 1,
+    "since": 1,
+    "2018": 1,
+    "og": 1,
+    "battle": 1,
+    "zone": 1,
+    "chill": 1,
+    "f9bomber": 1,
+    "told": 1,
+    "dreamed": 1,
+    "moment": 1,
+    "years": 1,
+    "bruhhh": 1,
+    "game": 1,
+    "full": 1,
+    "players": 1,
+    "tragic": 1,
+    "anyone": 1,
+    "stream": 1,
+    "pls": 1,
+    "wanna": 1,
+    "joinnnn": 1,
+    "bruhhhhhh": 1,
+    "omg": 1,
+    "romania": 1,
+    "europe": 1,
+    "speak": 1,
+    "xd": 1,
+    "nice": 1,
+    "native": 1,
+    "studying": 1,
+    "romanian": 1,
+    "learned": 1,
+    "passion": 1,
+    "idk": 1,
+    "yes": 1,
+    "zesty": 1,
+    "probably": 1,
+    "growing": 1,
+    "god": 1,
+    "knows": 1,
+    "shhhh": 1,
+    "pretend": 1,
+    "seee": 1,
+    "anytihn": 1,
+    "reproducing": 1,
+    "come": 1,
+    "us": 1,
+    "makes": 1,
+    "gam": 1,
+    "uh": 1,
+    "guess": 1,
+    "deathmatch": 1,
+    "map": 1,
+    "host": 1,
+    "soon": 1,
+    "able": 1,
+    "talk": 1
+  },
+  "phrases": {},
+  "timeline": {
+    "daily": [
+      {
+        "date": "2026-01-31",
+        "count": 47
+      },
+      {
+        "date": "2026-02-01",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week": "2026-W04",
+        "count": 47
+      },
+      {
+        "week": "2026-W05",
+        "count": 1
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2026-01",
+        "count": 47
+      },
+      {
+        "month": "2026-02",
+        "count": 1
+      }
+    ]
+  },
+  "relationships": {
+    "mentionsGiven": [],
+    "mentionsReceived": [
+      {
+        "user": "Igor The Bylarge",
+        "count": 3
+      },
+      {
+        "user": "Erotic Juice Princess",
+        "count": 2
+      },
+      {
+        "user": "Lithium",
+        "count": 1
+      },
+      {
+        "user": "F9bomber",
+        "count": 1
+      }
+    ],
+    "reactionsReceived": [
+      {
+        "emoji": "👍",
+        "count": 1
+      }
+    ]
+  }
+}

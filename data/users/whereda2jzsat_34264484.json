@@ -3,13 +3,14 @@
   "displayName": "whereda2jzsat",
   "aliases": [],
   "stats": {
-    "messageCount": 1,
-    "wordCount": 15,
-    "avgLength": 147.0,
-    "activityScore": 10.8,
+    "messageCount": 4,
+    "wordCount": 33,
+    "avgLength": 82.5,
+    "activityScore": 24.3,
     "totalReactions": 1
   },
   "words": {
+    "though": 2,
     "holy": 1,
     "crap": 1,
     "bramble": 1,
@@ -22,9 +23,25 @@
     "good": 1,
     "idea": 1,
     "colors": 1,
-    "though": 1,
     "probably": 1,
-    "lmao": 1
+    "lmao": 1,
+    "joined": 1,
+    "server": 1,
+    "ay": 1,
+    "guyys": 1,
+    "huh": 1,
+    "ah": 1,
+    "mostly": 1,
+    "busy": 1,
+    "id": 1,
+    "chance": 1,
+    "imma": 1,
+    "try": 1,
+    "keep": 1,
+    "contact": 1,
+    "maybe": 1,
+    "spectate": 1,
+    "strats": 1
   },
   "phrases": {},
   "timeline": {
@@ -32,31 +49,43 @@
       {
         "date": "2024-08-16",
         "count": 1
+      },
+      {
+        "date": "2026-03-11",
+        "count": 3
       }
     ],
     "weekly": [
       {
         "week": "2024-W32",
         "count": 1
+      },
+      {
+        "week": "2026-W10",
+        "count": 3
       }
     ],
     "monthly": [
       {
         "month": "2024-08",
         "count": 1
+      },
+      {
+        "month": "2026-03",
+        "count": 3
       }
     ]
   },
   "relationships": {
     "mentionsGiven": [
       {
-        "user": "Bramblezone III",
+        "user": "Sir Brambley",
         "count": 1
       }
     ],
     "mentionsReceived": [
       {
-        "user": "Kowloon Walled City",
+        "user": "blue",
         "count": 53
       },
       {
@@ -68,15 +97,19 @@
         "count": 1
       },
       {
-        "user": "susteem is African",
+        "user": "Totes Mcgee",
         "count": 1
       },
       {
-        "user": "Bad scion player",
+        "user": "Celiac Sicklyo",
         "count": 1
       },
       {
-        "user": "Slyforion",
+        "user": "Krees",
+        "count": 1
+      },
+      {
+        "user": "Snow White Lion",
         "count": 1
       }
     ],

@@ -3,19 +3,39 @@
   "displayName": "kingfurykiller",
   "aliases": [],
   "stats": {
-    "messageCount": 20,
-    "wordCount": 68,
-    "avgLength": 30.8,
-    "activityScore": 53.6,
-    "totalReactions": 5
+    "messageCount": 37,
+    "wordCount": 162,
+    "avgLength": 44.54,
+    "activityScore": 124.5,
+    "totalReactions": 12
   },
   "words": {
-    "ll": 2,
-    "one": 2,
+    "ll": 5,
+    "server": 5,
+    "vsr": 4,
+    "ve": 3,
+    "try": 3,
+    "one": 3,
+    "games": 3,
+    "next": 3,
+    "piercing": 3,
+    "kind": 3,
+    "play": 3,
+    "game": 2,
+    "times": 2,
+    "joined": 2,
     "default": 2,
+    "maybe": 2,
     "cool": 2,
-    "next": 2,
-    "kind": 2,
+    "tag": 2,
+    "got": 2,
+    "bl": 2,
+    "invite": 2,
+    "matchmaking": 2,
+    "beta": 2,
+    "person": 2,
+    "back": 2,
+    "eventually": 2,
     "nice": 1,
     "choices": 1,
     "thanks": 1,
@@ -26,38 +46,77 @@
     "communities": 1,
     "simply": 1,
     "want": 1,
-    "game": 1,
-    "ve": 1,
     "vsrcord": 1,
-    "times": 1,
     "count": 1,
-    "try": 1,
     "enjoy": 1,
     "learning": 1,
     "different": 1,
     "flavor": 1,
     "strat": 1,
-    "joined": 1,
-    "server": 1,
     "bz2": 1,
     "sniper": 1,
     "ban": 1,
     "hovering": 1,
-    "maybe": 1,
     "fine": 1,
     "learn": 1,
-    "vsr": 1,
-    "games": 1,
     "going": 1,
     "spot": 1,
     "opening": 1,
-    "tag": 1,
     "join": 1,
     "hutass": 1,
-    "got": 1,
     "slot": 1,
     "omw": 1,
-    "person": 1,
+    "running": 1,
+    "afaik": 1,
+    "bluecord": 1,
+    "greencord": 1,
+    "quite": 1,
+    "dead": 1,
+    "new": 1,
+    "ping": 1,
+    "either": 1,
+    "set": 1,
+    "community": 1,
+    "management": 1,
+    "anymore": 1,
+    "battlezone": 1,
+    "wingman": 1,
+    "every": 1,
+    "saturday": 1,
+    "5pm": 1,
+    "et": 1,
+    "vc": 1,
+    "begged": 1,
+    "f9": 1,
+    "brought": 1,
+    "muted": 1,
+    "discord": 1,
+    "command": 1,
+    "thank": 1,
+    "invited": 1,
+    "past": 1,
+    "weeks": 1,
+    "sorry": 1,
+    "tonight": 1,
+    "bunch": 1,
+    "crap": 1,
+    "take": 1,
+    "care": 1,
+    "today": 1,
+    "best": 1,
+    "g1": 1,
+    "amazing": 1,
+    "sbp": 1,
+    "flavors": 1,
+    "heard": 1,
+    "say": 1,
+    "run": 1,
+    "match": 1,
+    "lmk": 1,
+    "version": 1,
+    "aight": 1,
+    "bad": 1,
+    "assets": 1,
     "shares": 1,
     "pornhub": 1,
     "merch": 1,
@@ -68,12 +127,14 @@
     "random": 1,
     "people": 1,
     "rarely": 1,
-    "play": 1,
     "needs": 1,
     "17": 1,
     "sti": 1
   },
-  "phrases": {},
+  "phrases": {
+    "try to": 3,
+    "the server": 3
+  },
   "timeline": {
     "daily": [
       {
@@ -103,6 +164,14 @@
       {
         "date": "2025-09-02",
         "count": 3
+      },
+      {
+        "date": "2025-12-26",
+        "count": 1
+      },
+      {
+        "date": "2026-01-02",
+        "count": 16
       }
     ],
     "weekly": [
@@ -121,6 +190,14 @@
       {
         "week": "2025-W35",
         "count": 5
+      },
+      {
+        "week": "2025-W51",
+        "count": 1
+      },
+      {
+        "week": "2026-W00",
+        "count": 16
       }
     ],
     "monthly": [
@@ -139,14 +216,60 @@
       {
         "month": "2025-09",
         "count": 5
+      },
+      {
+        "month": "2025-12",
+        "count": 1
+      },
+      {
+        "month": "2026-01",
+        "count": 16
       }
     ]
   },
   "relationships": {
     "mentionsGiven": [
       {
-        "user": "Reacher",
+        "user": "Deleted User",
+        "count": 4
+      },
+      {
+        "user": "JJ",
+        "count": 4
+      },
+      {
+        "user": "F9bomber",
         "count": 2
+      },
+      {
+        "user": "Sir Brambley",
+        "count": 1
+      },
+      {
+        "user": "Erotic Juice Princess",
+        "count": 1
+      }
+    ],
+    "mentionsReceived": [
+      {
+        "user": "blue",
+        "count": 4
+      },
+      {
+        "user": "JJ",
+        "count": 3
+      },
+      {
+        "user": "Erotic Juice Princess",
+        "count": 2
+      },
+      {
+        "user": "BlackDragon",
+        "count": 1
+      },
+      {
+        "user": "VTrider",
+        "count": 1
       },
       {
         "user": "F9bomber",
@@ -157,43 +280,29 @@
         "count": 1
       }
     ],
-    "mentionsReceived": [
-      {
-        "user": "Reacher",
-        "count": 4
-      },
-      {
-        "user": "Kowloon Walled City",
-        "count": 4
-      },
-      {
-        "user": "BlackDragon",
-        "count": 1
-      },
-      {
-        "user": "Erotic Juice Princess",
-        "count": 1
-      },
-      {
-        "user": "VTrider",
-        "count": 1
-      },
-      {
-        "user": "Deleted User",
-        "count": 1
-      }
-    ],
     "reactionsReceived": [
       {
         "emoji": "❤️",
-        "count": 2
+        "count": 4
       },
       {
         "emoji": "👍",
-        "count": 2
+        "count": 3
       },
       {
         "emoji": "👀",
+        "count": 2
+      },
+      {
+        "emoji": "💯",
+        "count": 1
+      },
+      {
+        "emoji": "😂",
+        "count": 1
+      },
+      {
+        "emoji": "🔥",
         "count": 1
       }
     ]

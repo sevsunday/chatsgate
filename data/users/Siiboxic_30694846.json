@@ -1,0 +1,74 @@
+{
+  "userId": "306948468323385368",
+  "displayName": "Siiboxic",
+  "aliases": [],
+  "stats": {
+    "messageCount": 2,
+    "wordCount": 3,
+    "avgLength": 10.0,
+    "activityScore": 2.7,
+    "totalReactions": 1
+  },
+  "words": {
+    "gg": 1,
+    "joined": 1,
+    "server": 1
+  },
+  "phrases": {},
+  "timeline": {
+    "daily": [
+      {
+        "date": "2026-03-12",
+        "count": 1
+      },
+      {
+        "date": "2026-04-01",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week": "2026-W10",
+        "count": 1
+      },
+      {
+        "week": "2026-W13",
+        "count": 1
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2026-03",
+        "count": 1
+      },
+      {
+        "month": "2026-04",
+        "count": 1
+      }
+    ]
+  },
+  "relationships": {
+    "mentionsGiven": [
+      {
+        "user": "Snow White Lion",
+        "count": 1
+      }
+    ],
+    "mentionsReceived": [
+      {
+        "user": "Deleted User",
+        "count": 1
+      },
+      {
+        "user": "Celiac Sicklyo",
+        "count": 1
+      }
+    ],
+    "reactionsReceived": [
+      {
+        "emoji": "👍",
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "userId": "1116767138091388930",
+  "displayName": "TheNoid",
+  "aliases": [],
+  "stats": {
+    "messageCount": 9,
+    "wordCount": 18,
+    "avgLength": 19.0,
+    "activityScore": 15.3,
+    "totalReactions": 0
+  },
+  "words": {
+    "joined": 2,
+    "server": 2,
+    "sec": 2,
+    "f9": 1,
+    "good": 1,
+    "private": 1,
+    "beta": 1,
+    "patch": 1,
+    "code": 1,
+    "surpriseupdate2": 1,
+    "30": 1,
+    "take": 1,
+    "mine": 1,
+    "aight": 1,
+    "joining": 1
+  },
+  "phrases": {},
+  "timeline": {
+    "daily": [
+      {
+        "date": "2025-12-21",
+        "count": 3
+      },
+      {
+        "date": "2025-12-22",
+        "count": 1
+      },
+      {
+        "date": "2025-12-23",
+        "count": 2
+      },
+      {
+        "date": "2025-12-24",
+        "count": 2
+      },
+      {
+        "date": "2025-12-27",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week": "2025-W51",
+        "count": 9
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-12",
+        "count": 9
+      }
+    ]
+  },
+  "relationships": {
+    "mentionsGiven": [],
+    "mentionsReceived": [
+      {
+        "user": "𝕯𝖆𝖗𝖐𝖛𝖆𝖑𝖊",
+        "count": 1
+      }
+    ],
+    "reactionsReceived": []
+  }
+}

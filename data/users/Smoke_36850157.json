@@ -1,0 +1,73 @@
+{
+  "userId": "368501574726844430",
+  "displayName": "Smoke",
+  "aliases": [],
+  "stats": {
+    "messageCount": 9,
+    "wordCount": 20,
+    "avgLength": 29.22,
+    "activityScore": 16.7,
+    "totalReactions": 2
+  },
+  "words": {
+    "ll": 2,
+    "joined": 1,
+    "server": 1,
+    "known": 1,
+    "nicks": 1,
+    "found": 1,
+    "game": 1,
+    "steam": 1,
+    "child": 1,
+    "downloading": 1,
+    "thanks": 1,
+    "probably": 1,
+    "tomorrow": 1,
+    "weekend": 1,
+    "fun": 1,
+    "okay": 1,
+    "come": 1,
+    "say": 1,
+    "hello": 1
+  },
+  "phrases": {},
+  "timeline": {
+    "daily": [
+      {
+        "date": "2026-03-12",
+        "count": 8
+      },
+      {
+        "date": "2026-03-13",
+        "count": 1
+      }
+    ],
+    "weekly": [
+      {
+        "week": "2026-W10",
+        "count": 9
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2026-03",
+        "count": 9
+      }
+    ]
+  },
+  "relationships": {
+    "mentionsGiven": [],
+    "mentionsReceived": [
+      {
+        "user": "blue",
+        "count": 1
+      }
+    ],
+    "reactionsReceived": [
+      {
+        "emoji": "👍",
+        "count": 2
+      }
+    ]
+  }
+}

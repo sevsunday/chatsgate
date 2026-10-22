@@ -1,0 +1,88 @@
+{
+  "userId": "712108043197743136",
+  "displayName": "Star Wanderer",
+  "aliases": [],
+  "stats": {
+    "messageCount": 8,
+    "wordCount": 23,
+    "avgLength": 28.88,
+    "activityScore": 18.5,
+    "totalReactions": 0
+  },
+  "words": {
+    "joined": 1,
+    "server": 1,
+    "huh": 1,
+    "many": 1,
+    "cool": 1,
+    "fellow": 1,
+    "union": 1,
+    "jack": 1,
+    "southern": 1,
+    "cross": 1,
+    "may": 1,
+    "house": 1,
+    "work": 1,
+    "certain": 1,
+    "long": 1,
+    "bzcc": 1,
+    "coop": 1,
+    "okay": 1,
+    "anyone": 1,
+    "extra": 1,
+    "player": 1,
+    "teams": 1,
+    "good": 1
+  },
+  "phrases": {},
+  "timeline": {
+    "daily": [
+      {
+        "date": "2026-10-07",
+        "count": 3
+      },
+      {
+        "date": "2026-10-08",
+        "count": 3
+      },
+      {
+        "date": "2026-10-09",
+        "count": 2
+      }
+    ],
+    "weekly": [
+      {
+        "week": "2026-W40",
+        "count": 8
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2026-10",
+        "count": 8
+      }
+    ]
+  },
+  "relationships": {
+    "mentionsGiven": [],
+    "mentionsReceived": [
+      {
+        "user": "Aggressor",
+        "count": 4
+      },
+      {
+        "user": "F9bomber",
+        "count": 2
+      },
+      {
+        "user": "blue",
+        "count": 1
+      },
+      {
+        "user": "MonkeyDaMONKE",
+        "count": 1
+      }
+    ],
+    "reactionsReceived": []
+  }
+}

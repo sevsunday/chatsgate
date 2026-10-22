@@ -1,0 +1,68 @@
+{
+  "userId": "718122299542339694",
+  "displayName": "Voodoochile",
+  "aliases": [],
+  "stats": {
+    "messageCount": 6,
+    "wordCount": 14,
+    "avgLength": 15.83,
+    "activityScore": 11.6,
+    "totalReactions": 1
+  },
+  "words": {
+    "joined": 1,
+    "server": 1,
+    "hey": 1,
+    "people": 1,
+    "oh": 1,
+    "message": 1,
+    "yet": 1,
+    "leme": 1,
+    "find": 1,
+    "text": 1,
+    "ok": 1,
+    "coming": 1,
+    "fime": 1,
+    "min": 1
+  },
+  "phrases": {},
+  "timeline": {
+    "daily": [
+      {
+        "date": "2025-12-19",
+        "count": 6
+      }
+    ],
+    "weekly": [
+      {
+        "week": "2025-W50",
+        "count": 6
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-12",
+        "count": 6
+      }
+    ]
+  },
+  "relationships": {
+    "mentionsGiven": [],
+    "mentionsReceived": [
+      {
+        "user": "General Cyber",
+        "count": 1
+      },
+      {
+        "user": "F9bomber",
+        "count": 1
+      }
+    ],
+    "reactionsReceived": [
+      {
+        "emoji": "👍🏻",
+        "count": 1
+      }
+    ]
+  }
+}

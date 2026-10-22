@@ -3,50 +3,50 @@
   "displayName": "desu",
   "aliases": [],
   "stats": {
-    "messageCount": 509,
-    "wordCount": 1802,
-    "avgLength": 38.33,
-    "activityScore": 1414.1,
-    "totalReactions": 9
+    "messageCount": 529,
+    "wordCount": 1877,
+    "avgLength": 38.23,
+    "activityScore": 1472.6,
+    "totalReactions": 10
   },
   "words": {
+    "one": 23,
     "yea": 22,
-    "one": 21,
     "shit": 20,
     "use": 18,
     "gotta": 18,
-    "game": 14,
-    "oh": 14,
-    "got": 14,
+    "game": 16,
+    "oh": 16,
+    "ll": 16,
+    "got": 15,
+    "re": 13,
+    "time": 13,
+    "donno": 13,
     "go": 13,
-    "ll": 13,
     "lemme": 12,
-    "donno": 12,
+    "maybe": 11,
     "ok": 11,
     "look": 11,
-    "maybe": 10,
-    "re": 10,
-    "time": 10,
-    "damn": 10,
+    "damn": 11,
+    "back": 10,
+    "tho": 10,
     "wanna": 9,
-    "back": 9,
     "stuff": 9,
+    "man": 9,
     "old": 9,
     "design": 9,
     "map": 9,
+    "find": 8,
     "lmao": 8,
     "nice": 8,
-    "man": 8,
-    "tho": 8,
+    "good": 8,
     "ram": 8,
     "new": 8,
     "work": 7,
-    "find": 7,
     "remember": 7,
     "gonna": 7,
     "soon": 7,
     "listen": 7,
-    "good": 7,
     "play": 7,
     "draw": 7,
     "come": 7,
@@ -55,12 +55,15 @@
     "put": 6,
     "making": 6,
     "crashes": 6,
+    "ass": 6,
     "hold": 6,
     "click": 6,
     "server": 6,
     "wonder": 5,
+    "fine": 5,
     "try": 5,
     "another": 5,
+    "haven": 5,
     "used": 5,
     "ooh": 5,
     "oo": 5,
@@ -71,7 +74,7 @@
     "done": 5,
     "using": 5,
     "lot": 5,
-    "ass": 5,
+    "things": 5,
     "perhaps": 5,
     "mean": 5,
     "mod": 5,
@@ -82,10 +85,10 @@
     "fan": 5,
     "mobo": 5,
     "tank": 5,
+    "scout": 5,
+    "sorry": 5,
     "red": 4,
-    "fine": 4,
     "kek": 4,
-    "haven": 4,
     "iss": 4,
     "set": 4,
     "instead": 4,
@@ -93,7 +96,6 @@
     "cool": 4,
     "sometimes": 4,
     "never": 4,
-    "things": 4,
     "listening": 4,
     "didn": 4,
     "guess": 4,
@@ -110,9 +112,9 @@
     "vram": 4,
     "turret": 4,
     "eh": 4,
-    "scout": 4,
-    "sorry": 4,
     "day": 4,
+    "ban": 4,
+    "today": 4,
     "vsr": 4,
     "hmm": 3,
     "rip": 3,
@@ -125,6 +127,7 @@
     "goes": 3,
     "makes": 3,
     "pick": 3,
+    "mins": 3,
     "haha": 3,
     "noaa": 3,
     "boofwang": 3,
@@ -141,9 +144,12 @@
     "check": 3,
     "window": 3,
     "turn": 3,
+    "ve": 3,
+    "isdf": 3,
     "install": 3,
     "graphics": 3,
     "ideas": 3,
+    "probably": 3,
     "anything": 3,
     "southbridge": 3,
     "best": 3,
@@ -156,14 +162,16 @@
     "gg": 3,
     "idea": 3,
     "version": 3,
+    "much": 3,
     "big": 3,
     "came": 3,
     "tomorrow": 3,
     "feel": 3,
     "anime": 3,
     "finish": 3,
+    "week": 3,
+    "basically": 3,
     "join": 3,
-    "today": 3,
     "people": 3,
     "uses": 3,
     "idle": 3,
@@ -183,9 +191,9 @@
     "far": 2,
     "starts": 2,
     "ready": 2,
+    "afk": 2,
     "first": 2,
     "chair": 2,
-    "mins": 2,
     "since": 2,
     "usually": 2,
     "mode": 2,
@@ -218,12 +226,13 @@
     "hahaha": 2,
     "assuming": 2,
     "linux": 2,
+    "anyway": 2,
+    "10": 2,
     "puts": 2,
     "middle": 2,
     "rods": 2,
     "degrees": 2,
     "able": 2,
-    "ve": 2,
     "light": 2,
     "run": 2,
     "yesterday": 2,
@@ -231,7 +240,6 @@
     "let": 2,
     "called": 2,
     "port": 2,
-    "isdf": 2,
     "bay": 2,
     "boot": 2,
     "site": 2,
@@ -241,7 +249,6 @@
     "reason": 2,
     "faster": 2,
     "remove": 2,
-    "probably": 2,
     "nah": 2,
     "kid": 2,
     "tutorial": 2,
@@ -276,6 +283,7 @@
     "scion": 2,
     "long": 2,
     "nose": 2,
+    "seems": 2,
     "missing": 2,
     "fe": 2,
     "somewhere": 2,
@@ -291,6 +299,7 @@
     "rules": 2,
     "started": 2,
     "everything": 2,
+    "whatever": 2,
     "guys": 2,
     "firefox": 2,
     "weekend": 2,
@@ -304,8 +313,6 @@
     "modded": 2,
     "glow": 2,
     "hours": 2,
-    "ban": 2,
-    "basically": 2,
     "effect": 2,
     "sky": 2,
     "rocket": 2,
@@ -327,7 +334,6 @@
     "brb": 1,
     "sec": 1,
     "ping": 1,
-    "afk": 1,
     "kick": 1,
     "min": 1,
     "bak": 1,
@@ -449,8 +455,6 @@
     "saw": 1,
     "record": 1,
     "won": 1,
-    "anyway": 1,
-    "10": 1,
     "passes": 1,
     "boxes": 1,
     "read": 1,
@@ -679,7 +683,6 @@
     "gave": 1,
     "trying": 1,
     "realized": 1,
-    "much": 1,
     "sucked": 1,
     "continue": 1,
     "question": 1,
@@ -713,7 +716,6 @@
     "send": 1,
     "hi": 1,
     "18": 1,
-    "seems": 1,
     "missingthe": 1,
     "asleep": 1,
     "kbow": 1,
@@ -765,6 +767,32 @@
     "love": 1,
     "animations": 1,
     "relatable": 1,
+    "fault": 1,
+    "bout": 1,
+    "lemmiwinks": 1,
+    "toggle": 1,
+    "flashlight": 1,
+    "geez": 1,
+    "stalk": 1,
+    "herp": 1,
+    "sent": 1,
+    "blue": 1,
+    "waffle": 1,
+    "impressive": 1,
+    "gotten": 1,
+    "flashbanged": 1,
+    "sudden": 1,
+    "revelation": 1,
+    "bed": 1,
+    "thanks": 1,
+    "ilk": 1,
+    "anymore": 1,
+    "episode": 1,
+    "playing": 1,
+    "problems": 1,
+    "rage": 1,
+    "take": 1,
+    "care": 1,
     "full": 1,
     "person": 1,
     "leave": 1,
@@ -832,7 +860,6 @@
     "leme": 1,
     "sould": 1,
     "stopped": 1,
-    "whatever": 1,
     "especially": 1,
     "offline": 1,
     "fully": 1,
@@ -943,7 +970,7 @@
   },
   "phrases": {
     "maybe that": 3,
-    "you re": 4,
+    "you re": 7,
     "back in": 3,
     "call it": 3,
     "just use": 3,
@@ -966,8 +993,10 @@
     "on lemme": 3,
     "hold on lemme": 3,
     "then click": 3,
+    "donno why": 3,
     "can find": 3,
     "but yea": 3,
+    "one that": 3,
     "go to": 5,
     "to look": 3,
     "wonder if": 3,
@@ -987,10 +1016,11 @@
     "the scout": 3,
     "for game": 3,
     "came up": 3,
+    "the game": 5,
+    "this week": 3,
     "can join": 3,
     "can come": 4,
     "on idle": 3,
-    "the game": 4,
     "that one": 3
   },
   "timeline": {
@@ -1202,6 +1232,14 @@
       {
         "date": "2025-10-07",
         "count": 22
+      },
+      {
+        "date": "2026-04-14",
+        "count": 19
+      },
+      {
+        "date": "2026-04-17",
+        "count": 1
       }
     ],
     "weekly": [
@@ -1340,6 +1378,10 @@
       {
         "week": "2025-W40",
         "count": 34
+      },
+      {
+        "week": "2026-W15",
+        "count": 20
       }
     ],
     "monthly": [
@@ -1410,17 +1452,21 @@
       {
         "month": "2025-10",
         "count": 34
+      },
+      {
+        "month": "2026-04",
+        "count": 20
       }
     ]
   },
   "relationships": {
     "mentionsGiven": [
       {
-        "user": "susteem is African",
+        "user": "Celiac Sicklyo",
         "count": 7
       },
       {
-        "user": "Kowloon Walled City",
+        "user": "blue",
         "count": 2
       },
       {
@@ -1436,37 +1482,41 @@
         "count": 1
       },
       {
+        "user": "General Cyber",
+        "count": 1
+      },
+      {
         "user": "VTrider",
         "count": 1
       }
     ],
     "mentionsReceived": [
       {
-        "user": "susteem is African",
+        "user": "Celiac Sicklyo",
         "count": 22
       },
       {
         "user": "Deleted User",
-        "count": 12
+        "count": 13
       },
       {
-        "user": "Kowloon Walled City",
+        "user": "blue",
         "count": 11
       },
       {
-        "user": "HyperVivify",
+        "user": "Vivify",
         "count": 3
       },
       {
         "user": "VTrider",
-        "count": 2
+        "count": 3
       },
       {
         "user": "getsthedubs",
         "count": 1
       },
       {
-        "user": "Bad scion player",
+        "user": "Krees",
         "count": 1
       },
       {
@@ -1509,6 +1559,10 @@
       },
       {
         "emoji": "z__very_well",
+        "count": 1
+      },
+      {
+        "emoji": "💯",
         "count": 1
       }
     ]
